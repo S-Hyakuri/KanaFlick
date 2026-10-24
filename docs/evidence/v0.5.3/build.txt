@@ -1,0 +1,145 @@
+Calculating task graph as configuration cache cannot be reused because file 'app\build.gradle.kts' has changed.
+> Task :app:preBuild UP-TO-DATE
+> Task :app:generateDebugAssets UP-TO-DATE
+> Task :app:preDebugAndroidTestBuild SKIPPED
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :app:preDebugUnitTestBuild UP-TO-DATE
+> Task :app:extractProguardFiles UP-TO-DATE
+> Task :app:desugarDebugFileDependencies UP-TO-DATE
+> Task :app:writeDebugSigningConfigVersions UP-TO-DATE
+> Task :app:validateSigningDebug UP-TO-DATE
+> Task :app:javaPreCompileDebugUnitTest UP-TO-DATE
+> Task :app:javaPreCompileDebug UP-TO-DATE
+> Task :app:writeDebugAppMetadata UP-TO-DATE
+> Task :app:generateDebugGlobalSynthetics UP-TO-DATE
+> Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :app:extractDeepLinksDebug UP-TO-DATE
+> Task :app:mergeDebugJniLibFolders UP-TO-DATE
+> Task :app:checkDebugDuplicateClasses UP-TO-DATE
+> Task :app:checkDebugAarMetadata UP-TO-DATE
+> Task :app:mergeDebugAssets UP-TO-DATE
+> Task :app:mergeLibDexDebug UP-TO-DATE
+> Task :app:compressDebugAssets UP-TO-DATE
+> Task :app:mergeExtDexDebug UP-TO-DATE
+> Task :app:createDebugCompatibleScreenManifests
+> Task :app:mergeDebugNativeLibs UP-TO-DATE
+> Task :app:stripDebugDebugSymbols UP-TO-DATE
+> Task :app:mapDebugSourceSetPaths
+> Task :app:generateDebugResources
+> Task :app:processDebugNavigationResources
+> Task :app:compileDebugNavigationResources UP-TO-DATE
+> Task :app:packageDebugResources
+> Task :app:processDebugMainManifest
+> Task :app:processDebugManifest
+> Task :app:processDebugManifestForPackage
+> Task :app:parseDebugLocalResources
+> Task :app:generateDebugRFile UP-TO-DATE
+> Task :app:mergeDebugResources
+> Task :app:processDebugResources
+> Task :app:compileDebugKotlin
+> Task :app:compileDebugJavaWithJavac NO-SOURCE
+> Task :app:processDebugJavaRes UP-TO-DATE
+> Task :app:mergeDebugJavaResource UP-TO-DATE
+> Task :app:generateDebugLintReportModel
+> Task :app:bundleDebugClassesToRuntimeJar
+> Task :app:bundleDebugClassesToCompileJar
+> Task :app:generateDebugAndroidTestLintModel
+> Task :app:generateDebugUnitTestLintModel
+> Task :app:compileDebugUnitTestKotlin
+> Task :app:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :app:processDebugUnitTestJavaRes UP-TO-DATE
+> Task :app:dexBuilderDebug
+> Task :app:mergeProjectDexDebug
+> Task :app:packageDebug
+> Task :app:assembleDebug
+> Task :app:createDebugApkListingFileRedirect
+> Task :app:testDebugUnitTest
+> Task :app:lintAnalyzeDebugUnitTest
+> Task :app:lintAnalyzeDebugAndroidTest
+> Task :app:lintAnalyzeDebug
+
+> Task :app:lintReportDebug
+Wrote HTML report to file:///D:/AndroidProjects/KanaFlick/app/build/reports/lint-results-debug.html
+Wrote SARIF report to file:///D:/AndroidProjects/KanaFlick/app/build/reports/lint-results-debug.sarif
+Lint found 1 error and 17 warnings. First failure:
+D:\AndroidProjects\KanaFlick\app\src\main\java\com\hyakuri\kanaflick\ui\theme\Theme.kt:33: Error: Querying resource values using LocalContext.current [LocalContextGetResourceValueCall from androidx.compose.ui]
+This issue has been automatically fixed.
+            surface = Color(LocalContext.current.getColor(R.color.launch_background)),
+                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+> Task :app:lintDebug FAILED
+Lint found 1 error, 17 warnings. First failure:
+
+D:\AndroidProjects\KanaFlick\app\src\main\java\com\hyakuri\kanaflick\ui\theme\Theme.kt:33: Error: Querying resource values using LocalContext.current [LocalContextGetResourceValueCall from androidx.compose.ui]
+            surface = Color(LocalContext.current.getColor(R.color.launch_background)),
+                            ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+   Explanation for issues of type "LocalContextGetResourceValueCall":
+   Changes to the Configuration object will not cause LocalContext.current
+   reads to be invalidated, so calls to APIs such as Context.getString() will
+   not be updated when the Configuration changes, and so stale values might be
+   used. Instead, you can use Compose APIs such as stringResource,
+   colorResource, and painterResource - or LocalResources.current and query
+   properties from Resources directly. Using these APIs will invalidate
+   callers when the Configuration changes, to ensure that these calls reflect
+   the latest values.
+
+   Vendor: Jetpack Compose
+   Identifier: androidx.compose.ui
+   Feedback: https://issuetracker.google.com/issues/new?component=612128
+
+
+The full lint text report is located at:
+  D:\AndroidProjects\KanaFlick\app\build\intermediates\lint_intermediate_text_report\debug\lintReportDebug\lint-results-debug.txt
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:lintDebug' (registered by plugin 'com.android.internal.application').
+> Lint found errors in the project; aborting build.
+  
+  Fix the issues identified by lint, or create a baseline to see only new errors.
+  To create a baseline, run `gradlew updateLintBaseline` after adding the following to the module's build.gradle file:
+  ```
+  android {
+      lint {
+          baseline = file("lint-baseline.xml")
+      }
+  }
+  ```
+  For more details, see https://developer.android.com/studio/write/lint#snapshot
+  
+  Lint found 1 error, 17 warnings. First failure:
+  
+  D:\AndroidProjects\KanaFlick\app\src\main\java\com\hyakuri\kanaflick\ui\theme\Theme.kt:33: Error: Querying resource values using LocalContext.current [LocalContextGetResourceValueCall from androidx.compose.ui]
+              surface = Color(LocalContext.current.getColor(R.color.launch_background)),
+                              ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  
+     Explanation for issues of type "LocalContextGetResourceValueCall":
+     Changes to the Configuration object will not cause LocalContext.current
+     reads to be invalidated, so calls to APIs such as Context.getString() will
+     not be updated when the Configuration changes, and so stale values might be
+     used. Instead, you can use Compose APIs such as stringResource,
+     colorResource, and painterResource - or LocalResources.current and query
+     properties from Resources directly. Using these APIs will invalidate
+     callers when the Configuration changes, to ensure that these calls reflect
+     the latest values.
+  
+     Vendor: Jetpack Compose
+     Identifier: androidx.compose.ui
+     Feedback: https://issuetracker.google.com/issues/new?component=612128
+  
+  
+  The full lint text report is located at:
+    D:\AndroidProjects\KanaFlick\app\build\intermediates\lint_intermediate_text_report\debug\lintReportDebug\lint-results-debug.txt
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights from a Build Scan (powered by Develocity).
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 30s
+51 actionable tasks: 28 executed, 23 up-to-date
+Configuration cache entry stored.

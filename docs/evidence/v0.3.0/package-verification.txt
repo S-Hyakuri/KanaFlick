@@ -1,0 +1,6 @@
+APK: KanaFlick-0.3.0-debug.apk
+Bytes: 12431693
+SHA-256: EF78675223590E27B039995DE4B49D5CCA2718AAC41006D65EAD6342B1AF4AAB
+N5=805; N4=757; N3=1815; N2=3214; N1=4044; total=10635
+Packaged CSV counts and SHA-256 match manifest.
+Packaged NOTICE, full license and manifest match source bytes.

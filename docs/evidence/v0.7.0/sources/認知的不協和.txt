@@ -1,0 +1,911 @@
+
+
+
+
+認知的不協和 - Wikipedia
+(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard";var cookie=document.cookie.match(/(?:^|; )jawikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"f4f5cc76-e603-46bb-b5e8-8f1ab90227f1","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"認知的不協和","wgTitle":"認知的不協和","wgCurRevisionId":109260116,"wgRevisionId":109260116,"wgArticleId":559294,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["出典を必要とする記述のある記事/2008年4月-6月","認知的不協和","認識","信念","批判的思考の障壁","認知慣性","欺瞞","コミュニケーション理論","態度変容"],"wgPageViewLanguage":"ja","wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgRelevantPageName":"認知的不協和","wgRelevantArticleId":559294,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgConfirmEditCaptchaNeededForGenericEdit":"hcaptcha","wgConfirmEditForceShowCaptcha":false,"wgConfirmEditHCaptchaSiteKey":"5d0c670e-a5f4-4258-ad16-1f42792c9c62","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgMediaViewerMobileBeta":false,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","pageVariantFallbacks":"ja"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":9000,"wgParsoidHtmlVersion":"2.8.0","parsermigration-parsoid":true,"wgTestKitchenUserExperiments":{"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[]},"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgULSLanguageSelectorV2Enabled":true,"wgWikibaseItemId":"Q209722","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"]};
+RLSTATE={"ext.gadget.PDFLinkIcon":"ready","ext.gadget.RedirectColor":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.parsoid.styles":"ready","ext.cite.styles":"ready","mediawiki.skinning.content.parsoid":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready","ext.wikimediaBadges.ulsV2":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.NormalizeCharWidth","ext.gadget.suppressEnterAtSummaryBox","ext.gadget.charinsert","ext.gadget.WikiMiniAtlas","ext.gadget.switcher","ext.gadget.protectionIndicator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","ext.testKitchen","ext.wikimediaCustomizations.donorAccountCreation","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.quicksurveys.init"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+コンテンツにスキップ
+
+	
+		
+			
+				
+
+	
+	
+
+メインメニュー
+	
+	
+
+
+				
+		
+
+	
+	メインメニュー
+	サイドバーに移動
+	非表示
+
+
+	
+
+	
+		案内
+	
+	
+		
+		
+			
+			メインページコミュニティ・ポータル最近の出来事新しいページ最近の更新おまかせ表示練習用ページアップロード (ウィキメディア・コモンズ)特別ページ
+		
+		
+	
+
+
+	
+
+	
+		ヘルプ
+	
+	
+		
+		
+			
+			ヘルプ利用案内井戸端お知らせバグの報告ウィキペディアに関するお問い合わせ
+		
+		
+	
+
+
+
+
+				
+
+	
+
+
+		
+			
+
+	
+	
+		
+		
+	
+
+
+		
+		
+			
+
+	
+
+検索
+	
+	
+		
+			
+				
+					
+						
+						
+					
+					
+				
+				検索
+			
+		
+	
+
+
+			
+	
+	
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+	
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+	
+		
+
+	
+	
+
+表示
+	
+	
+
+
+			
+				
+			
+		
+	
+
+
+	
+	
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+	
+
+	
+		
+		
+			寄付
+
+アカウント作成
+
+ログイン
+
+
+			
+		
+		
+	
+
+
+	
+	
+
+	
+	
+
+個人用ツール
+	
+	
+
+
+		
+
+	
+		
+		
+			
+
+寄付
+
+
+
+アカウント作成
+
+
+
+ログイン
+
+
+			
+		
+		
+	
+
+
+	
+	
+
+
+
+
+		
+	
+
+
+	
+		
+			
+		
+		
+			
+		
+			
+				
+				
+				
+		
+		
+	
+	
+				
+					
+					
+	
+	目次
+	サイドバーに移動
+	非表示
+
+
+
+	
+		
+			
+				ページ先頭
+			
+		
+		
+		
+			
+				1
+				フェスティンガーによる認知的不協和の仮説（命題）
+			
+		
+		
+		
+		
+	
+	
+		
+			
+				2
+				概要
+			
+		
+		
+		
+		
+	
+	
+		
+			
+				3
+				例
+			
+		
+		
+		
+		
+	
+	
+		
+			
+				4
+				フェスティンガーの実験
+			
+		
+		
+		
+		
+	
+	
+		
+			
+				5
+				脚注
+			
+		
+		
+		
+		
+	
+	
+		
+			
+				6
+				参考文献
+			
+		
+		
+		
+		
+	
+	
+		
+			
+				7
+				関連項目
+			
+		
+		
+		
+		
+	
+	
+		
+			
+				8
+				外部リンク
+			
+		
+		
+		
+		
+	
+
+
+
+					
+		
+			
+		
+		
+			
+				
+					
+						
+
+	
+	
+
+目次の表示・非表示を切り替え
+	
+	
+
+
+							
+			
+		
+	
+
+
+					
+					認知的不協和
+			
+
+	
+	
+
+51 個の言語版
+	
+	
+
+		
+			
+			
+				
+				AfrikaansالعربيةAzərbaycancaБългарскиBosanskiCatalàکوردیČeštinaЧӑвашлаDanskDeutschEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFrançaisગુજરાતીעבריתहिन्दीMagyarՀայերենBahasa IndonesiaÍslenskaItalianoQaraqalpaqshaҚазақша한국어LietuviųМакедонскиNederlandsNorsk nynorskNorsk bokmålPälzischPolskiPortuguêsRomânăРусскийSimple EnglishSlovenčinaСрпски / srpskiSvenskaதமிழ்ТоҷикӣไทยTürkçeУкраїнськаOʻzbekcha / ўзбекча中文
+			
+			リンクを編集
+		
+
+	
+
+
+				
+					
+						
+							
+								
+
+	
+		
+		
+			ページ
+
+ノート
+
+
+			
+		
+		
+	
+
+
+								
+
+	
+	日本語
+	
+	
+
+
+					
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+				
+	
+
+
+							
+						
+						
+							
+			    
+
+	
+		
+		
+			閲覧
+
+編集
+
+履歴を表示
+
+
+			
+		
+		
+	
+
+
+			
+
+							
+								
+
+	
+	
+
+ツール
+	
+	
+
+
+									
+						
+
+	
+	ツール
+	サイドバーに移動
+	非表示
+
+
+	
+
+	
+		操作
+	
+	
+		
+		
+			
+
+閲覧
+
+
+
+編集
+
+
+
+履歴を表示
+
+
+			
+		
+		
+	
+
+
+
+	
+		全般
+	
+	
+		
+		
+			
+			リンク元関連ページの更新状況ファイルをアップロードこの版への固定リンクページ情報このページを引用短縮URLを取得するレガシーパーサーに切り替え
+		
+		
+	
+
+
+
+	
+		印刷/書き出し
+	
+	
+		
+		
+			
+			ブックの新規作成PDF 形式でダウンロード印刷用バージョン
+		
+		
+	
+
+
+
+	
+		他のプロジェクト
+	
+	
+		
+		
+			
+			コモンズウィキデータ項目
+		
+		
+	
+
+
+
+
+									
+				
+	
+
+
+							
+						
+					
+				
+				
+					
+						
+							
+				
+							
+		
+						
+							
+				
+	
+	表示
+	サイドバーに移動
+	非表示
+
+
+
+
+
+							
+		
+					
+				
+				
+					
+							
+		
+
+						出典: フリー百科事典『ウィキペディア（Wikipedia）』
+						
+						
+					
+					
+					.mw-parser-output .sidebar{width:auto;max-width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:var(--background-color-neutral-subtle,#f8f9fa);border:1px solid var(--border-color-base,#a2a9b1);padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:107%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:640px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}body.skin--responsive .mw-parser-output .sidebar a>img{max-width:none!important}@media screen{html.skin-theme-clientpref-night .mw-parser-output .sidebar:not(.notheme) .sidebar-list-title,html.skin-theme-clientpref-night .mw-parser-output .sidebar:not(.notheme) .sidebar-title-with-pretitle{background:transparent!important}html.skin-theme-clientpref-night .mw-parser-output .sidebar:not(.notheme) .sidebar-title-with-pretitle a{color:var(--color-progressive)!important}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .sidebar:not(.notheme) .sidebar-list-title,html.skin-theme-clientpref-os .mw-parser-output .sidebar:not(.notheme) .sidebar-title-with-pretitle{background:transparent!important}html.skin-theme-clientpref-os .mw-parser-output .sidebar:not(.notheme) .sidebar-title-with-pretitle a{color:var(--color-progressive)!important}}@media print{body.ns-0 .mw-parser-output .sidebar{display:none!important}}心理学ギリシア文字(プサイ)
+
+心理学者
+心理学の歴史
+
+
+基礎心理学
+
+異常 ·  学習 ·  言語
+行動 ·  実験 ·  社会
+神経 ·  人格 ·  深層
+数理 ·  生理 ·  知覚
+道徳 ·  認知 ·  発達
+比較 ·  文化
+
+
+
+応用心理学
+
+医療（英語版） ·  音楽
+音響 ·  家族 ·  学校
+カウンセリング（英語版）
+環境 ·  教育 ·  軍事
+経済 ·  健康 ·  芸術
+交通 ·  災害 ·  政治
+コミュニティ（英語版）
+産業・組織 ·  動物
+色彩（英語版） ·  犯罪
+宗教（英語版） ·  臨床
+消費者 ·  地域（英語版）
+スポーツ（英語版）
+人間性 ·  法 ·  恋愛
+
+
+
+一覧
+
+心理学者（英語版）
+心理療法
+
+
+ カテゴリ.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline-block;word-break:keep-all}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" ·\a0 ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" |\a0 ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" -\a0 ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist-slash dd:after,.mw-parser-output .hlist-slash li:after{content:" /\a0 ";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist dd dd:first-child:before,.mw-parser-output .hlist dd dt:first-child:before,.mw-parser-output .hlist dd li:first-child:before,.mw-parser-output .hlist dt dd:first-child:before,.mw-parser-output .hlist dt dt:first-child:before,.mw-parser-output .hlist dt li:first-child:before,.mw-parser-output .hlist li dd:first-child:before,.mw-parser-output .hlist li dt:first-child:before,.mw-parser-output .hlist li li:first-child:before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child:after,.mw-parser-output .hlist dd dt:last-child:after,.mw-parser-output .hlist dd li:last-child:after,.mw-parser-output .hlist dt dd:last-child:after,.mw-parser-output .hlist dt dt:last-child:after,.mw-parser-output .hlist dt li:last-child:after,.mw-parser-output .hlist li dd:last-child:after,.mw-parser-output .hlist li dt:last-child:after,.mw-parser-output .hlist li li:last-child:after{content:")\a0 ";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output .navbar{display:inline;font-size:75%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:110%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:110%;margin:0 4em}html.skin-theme-clientpref-night .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}}@media print{.mw-parser-output .navbar{display:none!important}}.mw-parser-output .infobox .navbar{font-size:80%}.mw-parser-output .navbox .navbar{display:block;font-size:80%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}表話編歴
+認知的不協和（にんちてきふきょうわ、英: cognitive dissonance）とは、人が自身の認知とは別の矛盾する認知を抱えた状態、またそのときに覚える不快感を表す社会心理学用語。アメリカの心理学者レオン・フェスティンガーによって提唱された。人はこれを解消するために、矛盾する認知の定義を変更したり、過小評価したり、自身の態度や行動を変更すると考えられている。
+
+有名な例として、イソップ物語のキツネとすっぱい葡萄の逸話が知られる。
+
+フェスティンガーによる認知的不協和の仮説（命題）[編集]
+不協和の存在は、その不協和を低減させるか除去するために、なんらかの圧力を起こす。
+つまり、複数（通常は二つ）の要素の間に不協和が存在する場合、一方の要素を変化させることによって不協和な状態を低減または除去することができる。
+不協和を低減させる圧力の強弱は、不協和の大きさの関数である。
+つまり、認知的不協和の度合いが大きければ、不協和を低減させる圧力はその度合いに応じて大きくなる。
+
+概要[編集]
+よく挙げられる例として、「喫煙者」の不協和がある[要出典]。
+
+喫煙者が喫煙の肺ガンの危険性（認知2）を知る
+
+認知1私、喫煙者Aは煙草を吸う
+
+認知2煙草を吸うと肺ガンになりやすい
+
+
+
+このとき、認知1と認知2は矛盾する。「肺ガンになりやすい」（認知2）ことを知りながら、「煙草を吸う」（認知1）という行為のため、喫煙者Aは自分自身に矛盾を感じる。そのため喫煙者Aは、認知1と認知2の矛盾を解消しようとする。
+
+
+自分の行動（認知1）の変更
+
+認知3（認知1の変更）私、喫煙者Aは禁煙する
+
+認知2煙草を吸うと肺ガンになりやすい
+
+
+
+一番論理的なのは認知1を変更することである。「喫煙」（認知1）を「禁煙」（認知3）に変更すれば、「煙草を吸うと肺ガンになりやすい」（認知2）と全く矛盾しない。
+
+これが小さなことならば、自分の行動を修正または変更することで足りる（例えば、漢字を間違って覚えていたならば、正しい漢字を覚えなおせばよい）。しかし、喫煙の多くはニコチンに依存する傾向が強いため、禁煙行為は苦痛を伴う。したがって、「喫煙」（認知1）から「禁煙」（認知3）へ行動を修正することは多大な困難が伴い、結局は「禁煙」できない人も多い。その場合は、認知2に修正を加える必要が生じてくる。
+
+
+新たな認知（認知4または認知5）の追加
+
+認知1私、喫煙者Aは煙草を吸う
+
+認知2煙草を吸うと肺ガンになりやすい
+
+認知4喫煙者で長寿の人もいる認知5交通事故で死亡する確率の方が高い
+
+
+
+「喫煙者で長寿の人もいる」（認知4）を加えれば、「煙草を吸う」（認知1）と「肺ガンになりやすい」（認知2）との間の矛盾を弱めることができる。そして「交通事故で死亡する確率の方が高い」（認知5）をつけ加えれば、肺ガンで死亡することへの恐怖をさらに低減することができる。
+
+なお、アメリカの煙草会社はキャンペーンで以下のように主張する[要出典]。
+
+.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}
+煙草を吸う人が肺ガンになりやすいのは、煙草が肺ガンを誘引するのではない。ストレスを抱えている人がストレスを和らげるために煙草を吸うだけであり、ストレスが要因となって肺ガンを引き起こすだけで、煙草と肺ガンの間に因果関係はない。
+
+
+この主張は「煙草を吸うと肺ガンになりやすい」（認知2）を変化させることで、認知的不協和状態を解消させようというものである。
+
+例[編集]
+
+原因不明の感情を説明するあるコミュニティで何らかの災害が発生していると、その災害が起こっていない隣接するコミュニティで、不合理な恐ろしい噂が広がる。これは、脅威に直面していない人が、災害への不安を正当化する必要があるためである [1]。
+キャンセルできない選択肢の後悔を最小化する競馬場の賭けは投票後に変更できないため、馬券購入後はより自分が選んだ馬に自信を深める（決定後の不協和）[2]。
+
+フェスティンガーの実験[編集]
+上記の煙草の例は、対照実験をすることが難しいため、認知的不協和の提唱者フェスティンガーは以下の実験を考案した。フェスティンガーは、単調な作業を行わせた学生に対して報酬を支払い、次に同じ作業をする学生にその作業の楽しさを伝えさせる実験を行った。
+
+この実験では、実際にはつまらない作業という認知と矛盾する楽しさを伝えるという認知から不協和が発生するが、報酬の多寡で楽しさを伝える度合いが異なる事を確かめた。
+
+報酬が少ない学生は、報酬が多い学生よりも楽しさを伝える度合いが強く、割に合わない報酬に対して「本当は面白かったのかもしれない」と、認知に修正を加えて不協和を解消しようとする心理が強く働いているとした。
+
+脚注[編集]
+
+↑ Prasad, J. (1950). A comparative study of rumours and reports in earthquakes. British Journal of Psychology, 41(3-4), 129-144.
+↑ Knox, R. E., & Inkster, J. A. (1968).Postdecision dissonance at post time. Journal of Personality and Social Psychology, 8(4), 319-323.
+
+
+参考文献[編集]
+作田啓一・井上俊 編 編「10 認知的不協和の理論（L・フェスティンガー）」『命題コレクション 社会学』筑摩書房、1986年6月6日。.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"“""”""‘""’"}.mw-parser-output .citation.cs-ja1 q,.mw-parser-output .citation.cs-ja2 q{quotes:"「""」""『""』"}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat;padding-right:1em}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat;padding-right:1em}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat;padding-right:1em}.mw-parser-output .cs1-ws-icon.cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/auto 1em no-repeat;padding-right:1em}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#bf3c2c)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#bf3c2c)}.mw-parser-output .cs1-maint{display:none;color:var(--color-success,#177860);margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}}ISBN 4-480-85292-1。https://www.chikumashobo.co.jp/product/9784480852922/。 
+Leon Festinger (1957) [1954]. A Theory of Cognitive Dissonance. California: Stanford University Press. ISBN 0-8047-0911-4 
+レオン・フェスティンガー『認知的不協和の理論　社会心理学序説』末永俊郎 監訳、誠信書房、1965年9月。ISBN 4-414-30210-2。 
+Leon Festinger; Henry Riecken; Stanley Schachter (2009). When Prophecy Fails. Martino Fine Books. ISBN 978-1-57898-852-5 
+レオン・フェスティンガー、S・シャクター・H・W・リーケン『予言がはずれるとき　この世の破滅を予知した現代のある集団を解明する』水野博介 訳、勁草書房〈Keiso communication〉、1995年12月。ISBN 4-326-10106-7。https://www.keisoshobo.co.jp/book/b26612.html。 
+
+関連項目[編集]
+ダブルバインド
+詭弁
+錯覚
+ストックホルム症候群
+ヤマアラシのジレンマ
+
+外部リンク[編集]
+中村陽吉『認知的斉合性理論』 - コトバンク
+『認知的不協和』 - コトバンク
+
+典拠管理データベース 国立図書館ドイツアメリカフランスBnF datakognitivní disonance</span>"}]]}'>チェコイスラエルその他Dissonance cognitive</span>"}]]}'>IdRefYale LUX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=認知的不協和&oldid=109260116」から取得
+					カテゴリ: 認知的不協和認識信念批判的思考の障壁認知慣性欺瞞コミュニケーション理論態度変容隠しカテゴリ: 出典を必要とする記述のある記事/2008年4月-6月
+				
+			
+			
+		
+		
+			
+				
+	 最終更新 2026年4月23日 (木) 13:43 （日時は個人設定で未設定ならばUTC）。
+	ページはParsoidによってレンダリングされました。
+	テキストはクリエイティブ・コモンズ 表示-継承ライセンスのもとで利用できます。追加の条件が適用される場合があります。詳細については利用規約を参照してください。
+
+
+				
+	プライバシー・ポリシー
+	ウィキペディアについて
+	免責事項
+	法律および安全に関する連絡先
+	行動規範
+	開発者
+	統計
+	Cookieに関する声明
+	モバイルビュー
+
+
+				
+	
+	
+
+
+			
+		
+	 
+ 
+
+	
+		
+			
+				
+
+検索
+			
+		
+			
+		
+			
+				
+					
+						
+							
+								
+								
+							
+							
+						
+						検索
+					
+				
+			
+		
+		
+				
+						
+					
+						
+						
+
+目次の表示・非表示を切り替え
+						
+						
+					
+						
+						
+					
+						
+					
+			
+				認知的不協和
+			
+		
+		
+			
+				
+
+
+			
+			
+
+
+			
+			
+
+
+			
+			
+
+
+			
+			
+
+
+			
+			
+
+
+			
+			
+
+
+			
+		
+			
+				
+
+51 個の言語版
+			
+			
+
+話題を追加
+			
+		
+			
+				
+				
+			
+		
+	
+
+
+	
+		
+	
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-798f866c55-nz5c7","wgBackendResponseTime":80,"wgPageParseReport":{"limitreport":{"cputime":"0.455","walltime":"0.543","ppvisitednodes":{"value":5164,"limit":1000000},"revisionsize":{"value":8871,"limit":2097152},"postexpandincludesize":{"value":67343,"limit":2097152},"templateargumentsize":{"value":9967,"limit":2097152},"expansiondepth":{"value":22,"limit":100},"expensivefunctioncount":{"value":10,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":17065,"limit":5000000},"entityaccesscount":{"value":1,"limit":500},"timingprofile":["100.00%  407.567      1 -total"," 25.21%  102.750      5 Template:Cite_book"," 17.67%   72.010      3 Template:Citation/core-ja-jp"," 14.65%   59.715      1 Template:心理学のサイドバー"," 14.11%   57.503      1 Template:Sidebar"," 11.08%   45.152      1 Template:Normdaten","  9.23%   37.620      5 Template:Citation/identifier","  6.56%   26.744      2 Template:Citation/core","  5.51%   22.465      8 Template:仮リンク","  4.23%   17.235      5 Template:Citation/showdateEN"]},"scribunto":{"limitreport-timeusage":{"value":"0.085","limit":"10.000"},"limitreport-memusage":{"value":4747544,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-7c6f655b99-qtzpf","timestamp":"20260917165155","ttl":2592000,"transientcontent":false,"expiry-source":"モジュール:Citation/Show_date (os.date(%Y))"}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"\u8a8d\u77e5\u7684\u4e0d\u5354\u548c","url":"https:\/\/ja.wikipedia.org\/wiki\/%E8%AA%8D%E7%9F%A5%E7%9A%84%E4%B8%8D%E5%8D%94%E5%92%8C","sameAs":"http:\/\/www.wikidata.org\/entity\/Q209722","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q209722","author":{"@type":"Organization","name":"\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u3078\u306e\u8ca2\u732e\u8005"},"publisher":{"@type":"Organization","name":"\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u8ca1\u56e3","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-06-04T01:50:23Z","dateModified":"2026-04-23T13:43:38Z","headline":"\u77db\u76fe\u3059\u308b\u8a8d\u77e5\u304b\u3089\u306e\u7dca\u5f35\u7de9\u548c\u306e\u305f\u3081\u5fc3\u304c\u3068\u308b\u884c\u52d5"}
+

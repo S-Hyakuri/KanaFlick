@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hyakuri.kanaflick.LiveInputTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2026-10-24T06:50:09.805Z" hostname="S-HYAKURI-PC" time="0.101">
+  <properties/>
+  <testcase name="legacyV090SnapshotStillRestores" classname="com.hyakuri.kanaflick.LiveInputTest" time="0.001"/>
+  <testcase name="composingKanaCompletesWithoutCandidateConfirmation" classname="com.hyakuri.kanaflick.LiveInputTest" time="0.001"/>
+  <testcase name="smallKanaAndVoicingIntermediateFormsDoNotCountAsErrors" classname="com.hyakuri.kanaflick.LiveInputTest" time="0.0"/>
+  <testcase name="correctPrefixesDoNotScoreButWrongKanaIsImmediate" classname="com.hyakuri.kanaflick.LiveInputTest" time="0.001"/>
+  <testcase name="romanCompositionWaitsOnlyForConversionNotForCandidateSelection" classname="com.hyakuri.kanaflick.LiveInputTest" time="0.001"/>
+  <testcase name="symbolFilterKeepsLongSoundAndOriginalStoredData" classname="com.hyakuri.kanaflick.LiveInputTest" time="0.006"/>
+  <testcase name="packagedSymbolExclusionAudit" classname="com.hyakuri.kanaflick.LiveInputTest" time="0.089"/>
+  <testcase name="bothListedKanjiAndKanaAreAccepted" classname="com.hyakuri.kanaflick.LiveInputTest" time="0.001"/>
+  <testcase name="cursorOnlyAndOldQuestionCannotProduceAnotherSample" classname="com.hyakuri.kanaflick.LiveInputTest" time="0.0"/>
+  <testcase name="kanaSamplesDoNotGetInventedFromKanjiCompletion" classname="com.hyakuri.kanaflick.LiveInputTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

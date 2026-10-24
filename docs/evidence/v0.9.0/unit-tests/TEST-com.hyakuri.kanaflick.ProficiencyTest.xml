@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hyakuri.kanaflick.ProficiencyTest" tests="23" skipped="0" failures="0" errors="0" timestamp="2026-10-23T08:22:16.085Z" hostname="S-HYAKURI-PC" time="0.191">
+  <properties/>
+  <testcase name="builtInCoverageEvidence" classname="com.hyakuri.kanaflick.ProficiencyTest" time="0.078"/>
+  <testcase name="fallbackMessagesAndExplorationQuota" classname="com.hyakuri.kanaflick.ProficiencyTest" time="0.006"/>
+  <testcase name="resetClearsFailedPendingAndRejectsLateOldEvents" classname="com.hyakuri.kanaflick.ProficiencyTest" time="0.005"/>
+  <testcase name="unsupportedVersionPreservesOriginalAndFailedWriteKeepsSavedProfile" classname="com.hyakuri.kanaflick.ProficiencyTest" time="0.047"/>
+  <testcase name="scoreBoundariesAndRecentDecay" classname="com.hyakuri.kanaflick.ProficiencyTest" time="0.001"/>
+  <testcase name="samplingStaysInPoolAndAvoidsPreviousWhenPossible" classname="com.hyakuri.kanaflick.ProficiencyTest" time="0.0"/>
+  <testcase name="repeatedKanaContributesOneSamplePerQuestion" classname="com.hyakuri.kanaflick.ProficiencyTest" time="0.001"/>
+  <testcase name="explicitTableHasNoDuplicateUnits" classname="com.hyakuri.kanaflick.ProficiencyTest" time="0.0"/>
+  <testcase name="trailingOmissionInsertionAndAmbiguityAreNotErrors" classname="com.hyakuri.kanaflick.ProficiencyTest" time="0.0"/>
+  <testcase name="targetedDistributionExceedsSeededRandomBaseline" classname="com.hyakuri.kanaflick.ProficiencyTest" time="0.025"/>
+  <testcase name="correctionDoesNotRewardFailedUnitTwice" classname="com.hyakuri.kanaflick.ProficiencyTest" time="0.001"/>
+  <testcase name="commitIsIdempotentAndRejectsOldSessionOrGeneration" classname="com.hyakuri.kanaflick.ProficiencyTest" time="0.001"/>
+  <testcase name="atomicRoundTripAndCorruptFilePreserved" classname="com.hyakuri.kanaflick.ProficiencyTest" time="0.015"/>
+  <testcase name="lengthDoesNotMultiplyWeightAndInvalidReadingsStayRandom" classname="com.hyakuri.kanaflick.ProficiencyTest" time="0.0"/>
+  <testcase name="unsupportedTargetsAreRejectedAsAWhole" classname="com.hyakuri.kanaflick.ProficiencyTest" time="0.0"/>
+  <testcase name="failedQueueRetainsEventsAndRetriesWithoutDoubleCounting" classname="com.hyakuri.kanaflick.ProficiencyTest" time="0.001"/>
+  <testcase name="kanjiAndNonKanaMistakesNeverInventKanaErrors" classname="com.hyakuri.kanaflick.ProficiencyTest" time="0.001"/>
+  <testcase name="snapshotPreservesErrorPositionsAndPendingSettlements" classname="com.hyakuri.kanaflick.ProficiencyTest" time="0.002"/>
+  <testcase name="skipAndExitOnlySettleKnownErrors" classname="com.hyakuri.kanaflick.ProficiencyTest" time="0.0"/>
+  <testcase name="uniqueSubstitutionAndInternalDeletion" classname="com.hyakuri.kanaflick.ProficiencyTest" time="0.0"/>
+  <testcase name="onlyAcceptedEventsContribute" classname="com.hyakuri.kanaflick.ProficiencyTest" time="0.001"/>
+  <testcase name="newSessionFlushesEarlierPendingBeforeReplacingCursor" classname="com.hyakuri.kanaflick.ProficiencyTest" time="0.001"/>
+  <testcase name="tokenizerNfcKatakanaCombinationsAndStandaloneSmallKana" classname="com.hyakuri.kanaflick.ProficiencyTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

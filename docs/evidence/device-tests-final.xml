@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuites tests="6" failures="0" errors="0" skipped="0" time="0.000" timestamp="2026-09-19T05:04:11" hostname="localhost">
+  <testsuite name="com.hyakuri.kanaflick.ExampleInstrumentedTest" tests="1" failures="0" errors="0" skipped="0" time="0.002" timestamp="2026-09-19T05:04:11" hostname="localhost">
+    <properties>
+      <property name="device" value="emulator-5554" />
+    </properties>
+    <testcase name="useAppContext" classname="com.hyakuri.kanaflick.ExampleInstrumentedTest" time="0.002" />
+  </testsuite>
+  <testsuite name="com.hyakuri.kanaflick.KanaFlickUiTest" tests="4" failures="0" errors="0" skipped="0" time="12.616" timestamp="2026-09-19T05:04:11" hostname="localhost">
+    <properties>
+      <property name="device" value="emulator-5554" />
+    </properties>
+    <testcase name="zeroInputExitCanBeCancelledThenConfirmed" classname="com.hyakuri.kanaflick.KanaFlickUiTest" time="4.035" />
+    <testcase name="fullRoundWithErrorsAndRestart" classname="com.hyakuri.kanaflick.KanaFlickUiTest" time="3.696" />
+    <testcase name="recreationPreservesProgressAndFeedback" classname="com.hyakuri.kanaflick.KanaFlickUiTest" time="1.476" />
+    <testcase name="rotationPreservesSessionAndCanContinue" classname="com.hyakuri.kanaflick.KanaFlickUiTest" time="3.409" />
+  </testsuite>
+  <testsuite name="com.hyakuri.kanaflick.VisualEvidenceTest" tests="1" failures="0" errors="0" skipped="0" time="4.293" timestamp="2026-09-19T05:04:11" hostname="localhost">
+    <properties>
+      <property name="device" value="emulator-5554" />
+    </properties>
+    <testcase name="captureThreePagesAndError" classname="com.hyakuri.kanaflick.VisualEvidenceTest" time="4.293" />
+  </testsuite>
+</testsuites>

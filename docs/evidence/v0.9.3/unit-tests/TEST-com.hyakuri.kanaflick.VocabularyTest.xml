@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hyakuri.kanaflick.VocabularyTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-10-24T06:11:41.820Z" hostname="S-HYAKURI-PC" time="0.116">
+  <properties/>
+  <testcase name="corruptFileIsReportedAndNotSilentlyReset" classname="com.hyakuri.kanaflick.VocabularyTest" time="0.016"/>
+  <testcase name="semanticErrorsAndDuplicatesArePreviewedWithoutChangingExisting" classname="com.hyakuri.kanaflick.VocabularyTest" time="0.002"/>
+  <testcase name="malformedCsvRejected" classname="com.hyakuri.kanaflick.VocabularyTest" time="0.002"/>
+  <testcase name="invalidUtf8Rejected" classname="com.hyakuri.kanaflick.VocabularyTest" time="0.003"/>
+  <testcase name="duplicatesUseNfcButNotKanaFolding" classname="com.hyakuri.kanaflick.VocabularyTest" time="0.003"/>
+  <testcase name="storeSurvivesNewRepositoryAndRenameEditDelete" classname="com.hyakuri.kanaflick.VocabularyTest" time="0.018"/>
+  <testcase name="csvRoundtripBomQuotesCommaAndNewline" classname="com.hyakuri.kanaflick.VocabularyTest" time="0.002"/>
+  <testcase name="rejectedSavePreservesBytes" classname="com.hyakuri.kanaflick.VocabularyTest" time="0.011"/>
+  <testcase name="allRealLevelsHaveValidUniqueWordsAndDeclaredCounts" classname="com.hyakuri.kanaflick.VocabularyTest" time="0.058"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

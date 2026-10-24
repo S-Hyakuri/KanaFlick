@@ -1,0 +1,1851 @@
+
+
+
+
+比較優位 - Wikipedia
+(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard";var cookie=document.cookie.match(/(?:^|; )jawikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"de7a11a4-01fc-4940-ab00-b3ad52f424bd","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"比較優位","wgTitle":"比較優位","wgCurRevisionId":106681584,"wgRevisionId":106681584,"wgArticleId":312605,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["参照方法","出典のページ番号が要望されている記事","Reflistで3列を指定しているページ","国際経済学","貿易","古典派経済学","経済理論","経済学の用語","デヴィッド・リカード"],"wgPageViewLanguage":"ja","wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgRelevantPageName":"比較優位","wgRelevantArticleId":312605,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgConfirmEditCaptchaNeededForGenericEdit":"hcaptcha","wgConfirmEditForceShowCaptcha":false,"wgConfirmEditHCaptchaSiteKey":"5d0c670e-a5f4-4258-ad16-1f42792c9c62","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgMediaViewerMobileBeta":false,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","pageVariantFallbacks":"ja"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":40000,"wgParsoidHtmlVersion":"2.8.0","parsermigration-parsoid":true,"wgTestKitchenUserExperiments":{"overrides":[],"enrolled":["minerva-compact-lead"],"assigned":{"minerva-compact-lead":"control"},"subject_ids":{"minerva-compact-lead":"awaiting"}},"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgULSLanguageSelectorV2Enabled":true,"wgWikibaseItemId":"Q215551","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"]};
+RLSTATE={"ext.gadget.PDFLinkIcon":"ready","ext.gadget.RedirectColor":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.math.styles":"ready","ext.cite.parsoid.styles":"ready","ext.cite.styles":"ready","mediawiki.skinning.content.parsoid":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":"ready","ext.wikimediaBadges.ulsV2":"ready"};RLPAGEMODULES=["ext.math.polyfills","ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.NormalizeCharWidth","ext.gadget.suppressEnterAtSummaryBox","ext.gadget.charinsert","ext.gadget.WikiMiniAtlas","ext.gadget.switcher","ext.gadget.protectionIndicator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","ext.testKitchen","ext.wikimediaCustomizations.donorAccountCreation","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.quicksurveys.init"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+コンテンツにスキップ
+
+	
+		
+			
+				
+
+	
+	
+
+メインメニュー
+	
+	
+
+
+				
+		
+
+	
+	メインメニュー
+	サイドバーに移動
+	非表示
+
+
+	
+
+	
+		案内
+	
+	
+		
+		
+			
+			メインページコミュニティ・ポータル最近の出来事新しいページ最近の更新おまかせ表示練習用ページアップロード (ウィキメディア・コモンズ)特別ページ
+		
+		
+	
+
+
+	
+
+	
+		ヘルプ
+	
+	
+		
+		
+			
+			ヘルプ利用案内井戸端お知らせバグの報告ウィキペディアに関するお問い合わせ
+		
+		
+	
+
+
+
+
+				
+
+	
+
+
+		
+			
+
+	
+	
+		
+		
+	
+
+
+		
+		
+			
+
+	
+
+検索
+	
+	
+		
+			
+				
+					
+						
+						
+					
+					
+				
+				検索
+			
+		
+	
+
+
+			
+	
+	
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+	
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+	
+		
+
+	
+	
+
+表示
+	
+	
+
+
+			
+				
+			
+		
+	
+
+
+	
+	
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+	
+
+	
+		
+		
+			寄付
+
+アカウント作成
+
+ログイン
+
+
+			
+		
+		
+	
+
+
+	
+	
+
+	
+	
+
+個人用ツール
+	
+	
+
+
+		
+
+	
+		
+		
+			
+
+寄付
+
+
+
+アカウント作成
+
+
+
+ログイン
+
+
+			
+		
+		
+	
+
+
+	
+	
+
+
+
+
+		
+	
+
+
+	
+		
+			
+		
+		
+			
+		
+			
+				
+				
+				
+		
+		
+	
+	
+				
+					
+					
+	
+	目次
+	サイドバーに移動
+	非表示
+
+
+
+	
+		
+			
+				ページ先頭
+			
+		
+		
+		
+			
+				1
+				概念
+			
+		
+		
+		
+		
+	
+	
+		
+			
+				2
+				単純化された例
+			
+		
+		
+		
+		
+	
+	
+		
+			
+				3
+				具体例
+			
+		
+		
+			
+				
+				具体例サブセクションを切り替えます
+			
+		
+		
+			
+			
+				
+					3.1
+					効果
+				
+			
+			
+			
+			
+		
+		
+			
+				
+					3.2
+					仮定
+				
+			
+			
+			
+			
+		
+	
+	
+	
+		
+			
+				4
+				比較優位の一般化
+			
+		
+		
+		
+		
+	
+	
+		
+			
+				5
+				産業内貿易
+			
+		
+		
+		
+		
+	
+	
+		
+			
+				6
+				議論
+			
+		
+		
+			
+				
+				議論サブセクションを切り替えます
+			
+		
+		
+			
+			
+				
+					6.1
+					比較優位論の前提条件
+				
+			
+			
+			
+			
+		
+	
+	
+	
+		
+			
+				7
+				出典・脚注
+			
+		
+		
+			
+				
+				出典・脚注サブセクションを切り替えます
+			
+		
+		
+			
+			
+				
+					7.1
+					注釈
+				
+			
+			
+			
+			
+		
+		
+			
+				
+					7.2
+					出典
+				
+			
+			
+			
+			
+		
+	
+	
+	
+		
+			
+				8
+				参考文献
+			
+		
+		
+			
+				
+				参考文献サブセクションを切り替えます
+			
+		
+		
+			
+			
+				
+					8.1
+					単行本
+				
+			
+			
+			
+			
+		
+		
+			
+				
+					8.2
+					論文・記事
+				
+			
+			
+			
+			
+		
+	
+	
+	
+		
+			
+				9
+				関連項目
+			
+		
+		
+		
+		
+	
+
+
+
+					
+		
+			
+		
+		
+			
+				
+					
+						
+
+	
+	
+
+目次の表示・非表示を切り替え
+	
+	
+
+
+							
+			
+		
+	
+
+
+					
+					比較優位
+			
+
+	
+	
+
+46 個の言語版
+	
+	
+
+		
+			
+			
+				
+				العربيةAzərbaycancaБългарскиCatalàکوردیČeštinaDanskDeutschEnglishEsperantoEspañolEestiEuskaraفارسیSuomiFrançaisGaeilgeעבריתहिन्दीMagyarՀայերենBahasa IndonesiaItalianoქართულიҚазақша한국어ລາວLatviešuМакедонскиNederlandsNorsk nynorskNorsk bokmålਪੰਜਾਬੀPolskiPortuguêsРусскийسنڌيSimple EnglishSvenskaไทยTürkçeТатарча / tatarçaУкраїнськаTiếng Việt粵語中文
+			
+			リンクを編集
+		
+
+	
+
+
+				
+					
+						
+							
+								
+
+	
+		
+		
+			ページ
+
+ノート
+
+
+			
+		
+		
+	
+
+
+								
+
+	
+	日本語
+	
+	
+
+
+					
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+				
+	
+
+
+							
+						
+						
+							
+			    
+
+	
+		
+		
+			閲覧
+
+編集
+
+履歴を表示
+
+
+			
+		
+		
+	
+
+
+			
+
+							
+								
+
+	
+	
+
+ツール
+	
+	
+
+
+									
+						
+
+	
+	ツール
+	サイドバーに移動
+	非表示
+
+
+	
+
+	
+		操作
+	
+	
+		
+		
+			
+
+閲覧
+
+
+
+編集
+
+
+
+履歴を表示
+
+
+			
+		
+		
+	
+
+
+
+	
+		全般
+	
+	
+		
+		
+			
+			リンク元関連ページの更新状況ファイルをアップロードこの版への固定リンクページ情報このページを引用短縮URLを取得するレガシーパーサーに切り替え
+		
+		
+	
+
+
+
+	
+		印刷/書き出し
+	
+	
+		
+		
+			
+			ブックの新規作成PDF 形式でダウンロード印刷用バージョン
+		
+		
+	
+
+
+
+	
+		他のプロジェクト
+	
+	
+		
+		
+			
+			コモンズウィキデータ項目
+		
+		
+	
+
+
+
+
+									
+				
+	
+
+
+							
+						
+					
+				
+				
+					
+						
+							
+				
+							
+		
+						
+							
+				
+	
+	表示
+	サイドバーに移動
+	非表示
+
+
+
+
+
+							
+		
+					
+				
+				
+					
+							
+		
+
+						出典: フリー百科事典『ウィキペディア（Wikipedia）』
+						
+						
+					
+					
+					.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%;font-size:90%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}@media print{body.ns-0 .mw-parser-output .ambox{display:none!important}}この記事には参考文献や外部リンクの一覧が含まれていますが、脚注による参照が不十分であるため、情報源が依然不明確です。 適切な位置に脚注を追加して、記事の信頼性向上にご協力ください。（2016年6月）.mw-parser-output .sidebar{width:auto;max-width:22em;float:right;clear:right;margin:0.5em 0 1em 1em;background:var(--background-color-neutral-subtle,#f8f9fa);border:1px solid var(--border-color-base,#a2a9b1);padding:0.2em;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse;display:table}body.skin-minerva .mw-parser-output .sidebar{display:table!important;float:right!important;margin:0.5em 0 1em 1em!important}.mw-parser-output .sidebar-subgroup{width:100%;margin:0;border-spacing:0}.mw-parser-output .sidebar-left{float:left;clear:left;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-none{float:none;clear:both;margin:0.5em 1em 1em 0}.mw-parser-output .sidebar-outer-title{padding:0 0.4em 0.2em;font-size:125%;line-height:1.2em;font-weight:bold}.mw-parser-output .sidebar-top-image{padding:0.4em}.mw-parser-output .sidebar-top-caption,.mw-parser-output .sidebar-pretitle-with-top-image,.mw-parser-output .sidebar-caption{padding:0.2em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-pretitle{padding:0.4em 0.4em 0;line-height:1.2em}.mw-parser-output .sidebar-title,.mw-parser-output .sidebar-title-with-pretitle{padding:0.2em 0.8em;font-size:145%;line-height:1.2em}.mw-parser-output .sidebar-title-with-pretitle{padding:0.1em 0.4em}.mw-parser-output .sidebar-image{padding:0.2em 0.4em 0.4em}.mw-parser-output .sidebar-heading{padding:0.1em 0.4em}.mw-parser-output .sidebar-content{padding:0 0.5em 0.4em}.mw-parser-output .sidebar-content-with-subgroup{padding:0.1em 0.4em 0.2em}.mw-parser-output .sidebar-above,.mw-parser-output .sidebar-below{padding:0.3em 0.8em;font-weight:bold}.mw-parser-output .sidebar-collapse .sidebar-above,.mw-parser-output .sidebar-collapse .sidebar-below{border-top:1px solid #aaa;border-bottom:1px solid #aaa}.mw-parser-output .sidebar-navbar{text-align:right;font-size:107%;padding:0 0.4em 0.4em}.mw-parser-output .sidebar-list-title{padding:0 0.4em;text-align:left;font-weight:bold;line-height:1.6em;font-size:105%}.mw-parser-output .sidebar-list-title-c{padding:0 0.4em;text-align:center;margin:0 3.3em}@media(max-width:640px){body.mediawiki .mw-parser-output .sidebar{width:100%!important;clear:both;float:none!important;margin-left:0!important;margin-right:0!important}}body.skin--responsive .mw-parser-output .sidebar a>img{max-width:none!important}@media screen{html.skin-theme-clientpref-night .mw-parser-output .sidebar:not(.notheme) .sidebar-list-title,html.skin-theme-clientpref-night .mw-parser-output .sidebar:not(.notheme) .sidebar-title-with-pretitle{background:transparent!important}html.skin-theme-clientpref-night .mw-parser-output .sidebar:not(.notheme) .sidebar-title-with-pretitle a{color:var(--color-progressive)!important}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .sidebar:not(.notheme) .sidebar-list-title,html.skin-theme-clientpref-os .mw-parser-output .sidebar:not(.notheme) .sidebar-title-with-pretitle{background:transparent!important}html.skin-theme-clientpref-os .mw-parser-output .sidebar:not(.notheme) .sidebar-title-with-pretitle a{color:var(--color-progressive)!important}}@media print{body.ns-0 .mw-parser-output .sidebar{display:none!important}}経済学地域別の経済
+理論
+ミクロ経済学  マクロ経済学 数理経済学
+
+実証
+計量経済学 実験経済学 経済史
+
+応用
+公共 医療 環境 天然資源 農業 開発国際 都市 空間 地域 地理労働 教育 人口 人事産業 法 文化 金融 行動
+
+一覧
+経済学者 学術雑誌 重要書籍カテゴリ 索引 概要
+
+経済
+ ポータル
+ カテゴリ.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline-block;word-break:keep-all}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:": "}.mw-parser-output .hlist dd:after,.mw-parser-output .hlist li:after{content:" ·\a0 ";font-weight:bold}.mw-parser-output .hlist-pipe dd:after,.mw-parser-output .hlist-pipe li:after{content:" |\a0 ";font-weight:normal}.mw-parser-output .hlist-hyphen dd:after,.mw-parser-output .hlist-hyphen li:after{content:" -\a0 ";font-weight:normal}.mw-parser-output .hlist-comma dd:after,.mw-parser-output .hlist-comma li:after{content:"、";font-weight:normal}.mw-parser-output .hlist-slash dd:after,.mw-parser-output .hlist-slash li:after{content:" /\a0 ";font-weight:normal}.mw-parser-output .hlist dd:last-child:after,.mw-parser-output .hlist dt:last-child:after,.mw-parser-output .hlist li:last-child:after{content:none}.mw-parser-output .hlist dd dd:first-child:before,.mw-parser-output .hlist dd dt:first-child:before,.mw-parser-output .hlist dd li:first-child:before,.mw-parser-output .hlist dt dd:first-child:before,.mw-parser-output .hlist dt dt:first-child:before,.mw-parser-output .hlist dt li:first-child:before,.mw-parser-output .hlist li dd:first-child:before,.mw-parser-output .hlist li dt:first-child:before,.mw-parser-output .hlist li li:first-child:before{content:" (";font-weight:normal}.mw-parser-output .hlist dd dd:last-child:after,.mw-parser-output .hlist dd dt:last-child:after,.mw-parser-output .hlist dd li:last-child:after,.mw-parser-output .hlist dt dd:last-child:after,.mw-parser-output .hlist dt dt:last-child:after,.mw-parser-output .hlist dt li:last-child:after,.mw-parser-output .hlist li dd:last-child:after,.mw-parser-output .hlist li dt:last-child:after,.mw-parser-output .hlist li li:last-child:after{content:")\a0 ";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li:before{content:" "counter(listitem)"\a0 "}.mw-parser-output .hlist dd ol>li:first-child:before,.mw-parser-output .hlist dt ol>li:first-child:before,.mw-parser-output .hlist li ol>li:first-child:before{content:" ("counter(listitem)"\a0 "}.mw-parser-output .navbar{display:inline;font-size:75%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:110%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:110%;margin:0 4em}html.skin-theme-clientpref-night .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}@media(prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .navbar li a abbr{color:var(--color-base)!important}}@media print{.mw-parser-output .navbar{display:none!important}}.mw-parser-output .infobox .navbar{font-size:80%}.mw-parser-output .navbox .navbar{display:block;font-size:80%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}表話編歴
+
+比較優位（ひかくゆうい、英: comparative advantage）とは、経済学者であったデヴィッド・リカードが提唱した概念で、比較生産費説やリカード理論と呼ばれる学説・理論の柱となる、貿易理論における最も基本的な概念である。アダム・スミスが提唱した絶対優位（absolute advantage）の概念を柱とする学説・理論を修正する形で提唱された。
+
+これは、自由貿易において各経済主体が（複数あり得る自身の優位分野の中から）自身の最も優位な分野（より機会費用の少ない、自身の利益・収益性を最大化できる財の生産）に特化・集中することで、それぞれの労働生産性が増大され、互いにより高品質の財やサービスと高い利益・収益を享受・獲得できるようになることを説明する概念である。
+
+アダム・スミスの絶対優位は、各分野における経済主体間の単純な優劣を表現するに留まるため、自由貿易と分業の利点や実態が限定的にしか表現できていないのに対し、リカードの比較優位は、各経済主体内において複数あり得る優位分野間の時間的な収益性・効率性の比較とその選択・集中にまで踏み込むため、より精度の高い自由貿易・分業の説明・擁護に成功している。
+
+比較優位における労働生産性とは一人当たりの実質付加価値高を意味する。
+比較優位の解説に際しては、国家による統制を核としている重商主義に対する批判から始まった歴史的な経緯もあって、国家間の貿易がよく引き合いにされるが、地方公共団体及び企業や個人などのあらゆる経済主体においても同様である。
+
+概念[編集]
+18世紀、アダム・スミスはトーマス・マンが提唱した重商主義を批判した。重商主義に基づき貨幣などの金融資産の蓄積を目的として、保護貿易や貿易相手からの搾取を行っても、植民地維持の費用増大を招き、自国内で権力者のみが富むだけで、その経済主体全体の生活水準の向上には結びつかないからである。
+
+そして、アダム・スミスは1776年に自由貿易の重要性と社会的分業による労働生産性の向上を説いた。これは絶対優位にもとづいていたが、これでは交換の利益を説明しきれていなかった。なぜならば、絶対優位においては労働量と資本力を重視し他の経済主体よりも得意な分野に特化するので、絶対優位にある経済主体と絶対劣位にあるそれとでは、前者が一方的に利益を得て後者が一方的に損害をこうむる。しかし、これは貿易による現実とは相容れない。
+
+デヴィッド・リカードは1817年に彼の理論を拡張して比較優位の概念を発表した。ここでいう比較とは、労働生産性の各経済主体間の比較ではなく、ある経済主体内での各産業間での比較を意味する[1]。その各産業間での生産性格差[注釈 1]を他の経済主体のそれと比較すること、つまり、経済主体内での相対的有利さを経済主体ごとに比較したときにどちらが優位であるかという二重の相対比較が比較優位である。絶対優位であっても、両方に比較優位はあり得ない。
+
+さらに、労働力なども含めた資源は有限であり、あらゆる産業において絶対劣位にある経済主体でも比較優位な産業は存在する。仮に資源が無限にあれば、絶対優位のある経済主体のみで生産を行うことが最適となるが、現実には資源は有限であるためにある財の生産を行う場合には他の財の生産を諦めるという機会費用が発生する。直接的な費用だけではなく、この機会費用まで含めて考えれば、絶対優位にあるからといってその財を生産することが最適とは限らなくなる。
+
+
+絶対優位と比較優位の比較
+視点絶対優位比較優位
+
+提唱者
+アダム・スミスデヴィッド・リカード
+
+生産要素
+労働量・資本力労働生産性
+
+生産要素を誰と比較するか
+他者他者
+
+他の経済主体と何を比較するか
+労働生産性（最大化）[生産性⇔機会費用]
+
+何に特化するか
+他の経済主体より得意な分野機会費用の低いもの（生産性の高い方）
+
+
+単純化された例[編集]
+ポール・サミュエルソンは、比較優位を「弁護士と秘書」の例で以下のように説明している[2]。
+   
+有能な弁護士Aは、弁護士の仕事だけでなく、タイプを打つ仕事も得意だったとする。秘書は、弁護士・タイプの仕事において、弁護士Aより不得意である。更に、秘書はタイプはそこそこできるが弁護士の仕事はほとんどできない。しかし相対的な比較として各自の弁護士の仕事の能力を基準にすれば、秘書のタイピング能力は弁護士Aより優位であると見ることができる。このような場合、弁護士Aは弁護士の仕事に特化し、秘書にタイプの仕事を任せる。それが、弁護士・タイプの仕事が最も効率よくできるからである。
+
+弁護士がタイプを打つと、弁護士報酬という機会費用を捨てることになる。弁護士がタイプを打つのは、恐ろしい機会費用がかかっていることになる。秘書がタイプを打っても、機会費用は低い。無駄な事をしない＝何がトクかを常に考える(時間でも費用でも)ことが、｢比較優位」を実践していることになる。
+
+具体例[編集]
+
+比較優位の提唱者であるデヴィッド・リカードのメシュエン条約の引用例に従って、グレートブリテン王国（以降「イギリス」）とポルトガル王国（以降「ポルトガル」）の2国及び毛織物とワインの2財をモデルにする。
+
+今、イギリスの全労働者が1単位時間分だけ働いた場合の生産量を、毛織物なら
+  
+    
+      
+        
+          S
+          
+            B
+          
+        
+      
+    
+    {\displaystyle S_{B}}
+  
+単位とし、ワインなら
+  
+    
+      
+        
+          W
+          
+            B
+          
+        
+      
+    
+    {\displaystyle W_{B}}
+  
+単位とする。一方で、ポルトガルの全労働者が同じだけ働いた場合の生産量を、毛織物なら
+  
+    
+      
+        
+          S
+          
+            P
+          
+        
+      
+    
+    {\displaystyle S_{P}}
+  
+単位とし、ワインなら
+  
+    
+      
+        
+          W
+          
+            P
+          
+        
+      
+    
+    {\displaystyle W_{P}}
+  
+単位とする。
+
+この時、
+W_{B}<W_{P}</math>"}},"i":0}}]}'>
+
+  
+    
+      
+        
+          W
+          
+            B
+          
+        
+        <
+        
+          W
+          
+            P
+          
+        
+      
+    
+    {\displaystyle W_{B}<W_{P}}
+  
+
+
+であるならば、ポルトガルはワインに関してイギリスに絶対優位であると言う。
+
+又、
+\\frac{W_{B}}{S_{B}}<\\frac{W_{P}}{S_{P}}</math>"}},"i":0}}]}'>
+
+  
+    
+      
+        
+          
+            
+              W
+              
+                B
+              
+            
+            
+              S
+              
+                B
+              
+            
+          
+        
+        <
+        
+          
+            
+              W
+              
+                P
+              
+            
+            
+              S
+              
+                P
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {W_{B}}{S_{B}}}<{\frac {W_{P}}{S_{P}}}}
+  
+
+
+であるならば、ポルトガルはワインに関して（毛織物と比べた場合に）イギリスに比較優位であると言う。
+
+ここで、具体例として、次の表の場合を考える。
+
+
+1単位時間分だけ働いた場合の生産量
+毛織物ワイン
+
+イギリス
+
+  
+    
+      
+        36
+      
+    
+    {\displaystyle 36}
+  
+
+  
+    
+      
+        30
+      
+    
+    {\displaystyle 30}
+  
+
+
+ポルトガル
+
+  
+    
+      
+        40
+      
+    
+    {\displaystyle 40}
+  
+
+  
+    
+      
+        45
+      
+    
+    {\displaystyle 45}
+  
+
+
+
+ポルトガルは、ワインと毛織物の双方に関して、イギリスに対し絶対優位である。しかし、毛織物に関してはイギリスの方が比較優位であり、ワインに関してはポルトガルの方が比較優位である。なお、逆の言い方をすれば、毛織物に関してはポルトガルの方が比較劣位で、ワインに関してはイギリスの方が比較劣位である、と言える。
+
+イギリスの絶対優位性と比較優位性とは無関係であるということが、この具体例からも示される。
+
+効果[編集]
+各国の労働力人口と労働投入係数が、次の表で与えられる通り、簡略化の為に、失業者が居ない場合を想定している場合を考える。
+
+
+労働力と労働投入係数
+労働力労働投入係数
+
+合計毛織物ワイン
+
+イギリス
+
+  
+    
+      
+        220
+      
+    
+    {\displaystyle 220}
+  
+
+  
+    
+      
+        100
+      
+    
+    {\displaystyle 100}
+  
+
+  
+    
+      
+        120
+      
+    
+    {\displaystyle 120}
+  
+
+
+ポルトガル
+
+  
+    
+      
+        170
+      
+    
+    {\displaystyle 170}
+  
+
+  
+    
+      
+        90
+      
+    
+    {\displaystyle 90}
+  
+
+  
+    
+      
+        80
+      
+    
+    {\displaystyle 80}
+  
+
+
+
+両国の生産可能性辺境線は、貿易を行う事で、自給自足状態における状態より大きくなる。要するに、自給自足状態である場合に比べて、両国とも生産可能性領域が増える。
+
+
+これは、各国の国際分業によって全体的な労働生産性が増大することを示し、さらに、自由貿易を前提とした場合には両国が共に消費を増大させられることを示している。すなわち、比較優位にある財を輸出すると共に比較劣位にある財を輸入すれば、絶対優位に関係なく貿易で利益を享受できるということを意味する。
+
+もし、どちらの国も生産可能性辺境線上に在る(労働力が逼迫している)場合、一方の財を増産する為にはもう一方の財を減産しなければならない。
+
+例えば、毛織物
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+  
+単位を増産する為には、イギリスではワインを
+  
+    
+      
+        1.2
+      
+    
+    {\displaystyle 1.2}
+  
+単位減産せねばならないが、ポルトガルではワインを
+  
+    
+      
+        0.
+        
+          
+            
+              8
+              ˙
+            
+          
+        
+      
+    
+    {\displaystyle 0.{\dot {8}}}
+  
+単位減産するだけで済む。逆に考えれば、毛織物を
+  
+    
+      
+        1
+      
+    
+    {\displaystyle 1}
+  
+単位減産する場合に、ポルトガルではワインを
+  
+    
+      
+        0.
+        
+          
+            
+              8
+              ˙
+            
+          
+        
+      
+    
+    {\displaystyle 0.{\dot {8}}}
+  
+単位しか増産させられないのに対して、イギリスではワインを
+  
+    
+      
+        1.2
+      
+    
+    {\displaystyle 1.2}
+  
+単位増産させられる。
+
+これは、比較優位に立つ側は相手側よりも少ない機会費用で生産できる、ということを示している。
+
+仮定[編集]
+現代において、世界各国は、グローバルな貿易ネットワークに大なり小なりつながっており、貿易を行っている。輸出財は国内需要よりも多く生産しているということであるので、特化が進んでいることになる。
+
+国内には複数の産業があり、それぞれが他国へ輸出を試みたとすると、より高値で販売できる順に序列ができる。
+
+固定相場制をとる国家または共通通貨制下の国々では、輸出で利益を得た産業は生産を拡大し、より多くの利益を得ようとする。この際に、最も高い利益を得た産業が、より多く資源（設備や労働力）の購買力を得て、資源を需要するので、各資源の価格は次第に上昇する。
+変動相場制をとる国家では、輸出で得た外貨は、自国通貨へ両替されることになる。このとき、より高い利益を得た産業がより多くの自国通貨を得る。比較優位な産業はより高い利益を得て、生産を拡大し、より多くの利益を得ようとする。この際に、輸出拡張で自国通貨高が進む。
+
+これによって、比較劣位な産業は、収益が悪化し解散するなどして、資源を解放することになる。この結果、比較優位な産業へ資源が集中して、特化が進み、一人当たりの実質GDP成長をうながす。
+
+比較優位の一般化[編集]
+比較優位の概念は、労働力のみが生産要素の場合には、2国多数財（あるいは2財多数国）の場合にまで容易に拡張させられる。
+
+
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  
+国と
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+  
+国の間で貿易を行う状況下において、
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+財と
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+  
+財とが有り、それぞれの労働投入係数をそれぞれ
+  
+    
+      
+        
+          a
+          
+            X
+            i
+          
+        
+      
+    
+    {\displaystyle a_{Xi}}
+  
+及び
+  
+    
+      
+        
+          a
+          
+            X
+            j
+          
+        
+      
+    
+    {\displaystyle a_{Xj}}
+  
+と
+  
+    
+      
+        
+          a
+          
+            Y
+            i
+          
+        
+      
+    
+    {\displaystyle a_{Yi}}
+  
+及び
+  
+    
+      
+        
+          a
+          
+            Y
+            j
+          
+        
+      
+    
+    {\displaystyle a_{Yj}}
+  
+とすれば、
+\\frac{a_{Xi}}{a_{Xj}} < \\frac{a_{Yi}}{a_{Yj}}</math>"}},"i":0}}]}'>
+
+  
+    
+      
+        
+          
+            
+              a
+              
+                X
+                i
+              
+            
+            
+              a
+              
+                X
+                j
+              
+            
+          
+        
+        <
+        
+          
+            
+              a
+              
+                Y
+                i
+              
+            
+            
+              a
+              
+                Y
+                j
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {a_{Xi}}{a_{Xj}}}<{\frac {a_{Yi}}{a_{Yj}}}}
+  
+
+
+が成り立つとき、
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  
+国は
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+  
+国に対して、
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+財に比較優位性を持ち、
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+  
+財に比較劣位性を持つ、と言う。
+
+
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  
+国から
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+  
+国へ
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+財が輸出されて
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+  
+財が輸入されるとは限らない。別の
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+  
+財が
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  
+国から
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+  
+国へ輸出され、I財とJ財は共に
+  
+    
+      
+        Y
+      
+    
+    {\displaystyle Y}
+  
+国から
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  
+国へ輸出され得る[3][4][要ページ番号]。このように、2国多数財のケースでは、比較優位は、それのみでは貿易の方向を決定しない。
+
+貿易論では、3国3財以上の場合は、2国2財あるいは2国多数財の場合とは、様相が大きく異なる。そこで、3国以上の場合を多数国、3財以上の場合を多数財という。以下はR.ジョーンズが1961年の論文に載せた数値例である[5]。
+
+
+ジョーンズの数値例
+A: 米国B: 英国C: 欧州
+
+1: 小麦　
+101010
+
+2: リネン
+573
+
+3: 服地　
+432
+
+このとき、比較優位の単純な比較はできない。2国2財のどのような組合せを取ろうと、特化パタンは正しく定めることはできない。ジョーンズは、このような場合にも、置換積を最小化する特化パタンを求めればよいことを示した[6]。置換積とは、労働投入係数に対し
+　　　　a1σ(1) a2σ(2) ・・・aNσ(N)  
+という形の積をいう。ここで、σは、{1, 2, ... , N}の置換である。3国3財の場合、置換の数は全部で6個ある。上記ジョーンズの数値例では、A→1、B→3、C→2という特化パタンが唯一実現可能な完全特化パタンである。 
+
+労働のみが投入される経済では、ジョーンズの条件により特化パタンが定まるが、投入財が貿易される場合、比較優位の概念は定義ができない。ディアドルフは、いくつもの定義を与えているが、どれも完全なものではない[7]。
+
+これは、きわめて不充分な理論状況である。イギリスの産業革命は綿花の輸入によって可能になったし、日本は、幕末開国以来、加工貿易が基本であった。マッケンジーは1956年の論文[8]で、「特化に関する古典的扱いの基本的な誤謬は、... 中間財貿易を無視したことである」（同所、p.56）と指摘しているが、塩沢由典の研究に至るまで、大きな進展はなかった。R.ジョーンズが1961年は論文でこの問題に取り組んでいるが、投入係数がどの国でも同一の場合しか定式化できなかった。
+
+塩沢の貿易理論（国際価値論）は、多数国多数財で技術選択と中間財貿易が存在する場合にたいし、古典派価値論と同様の理論が成立することを示した[9]。『リカード貿易問題の最終解決』[10]は、2007年論文を概念的に整理し、正則領域における国際価値（各国の賃金率と世界共通の財の価格）が一義的に定まることを基本定理として示している。第4章では、リカードからポール・クルーグマンの新貿易論、マーク・メリッツの新々貿易論に至るまでの貿易論の歴史を詳しく解説している。
+
+→「貿易理論」も参照
+
+産業内貿易[編集]
+比較優位に従って、分業が既述した様に進むと最終的にはいずれかの経済（国あるいは地域）が自身の比較劣位な財を全く生産しなくなるであろうことが導き出される。しかし、現実には、同種の財を互いに輸出・輸入し合う場合も見られる。これを産業内分業という。産業内分業は、ヨーロッパ諸国のような類似した国々の間で増大する傾向がみられる[11]。
+
+産業内貿易に関する実証的研究は、ベラ・バラッサにより始まり[12]、グリューベル（英語版）とロイドによる1975年の本[13]の出版により多くの経済学者に注目された[14]。ポール・クルーグマンは、なぜ産業内貿易が起こるかについて、需要者の多様性選好と生産者の規模の経済（収穫逓増）とにより説明する理論を提起した[15][16]。
+
+産業内貿易は、リカード型の比較優位（技術の違い）に基づく貿易とも、ヘクシャー・オリーン型（HOSモデル）の比較優位（要素賦存比率の違い）にもとづく貿易とも異なる論理によるものである。クルーグマンは、この理論を含む研究により2008年ノーベル経済学賞を受賞した[17]。
+→「貿易理論」も参照
+
+議論[編集]
+比較優位論の前提条件[編集]
+→「貿易理論 § リカード理論に関する解釈」も参照
+比較優位論は、当初は極めて限定的な前提（仮定ないし条件）のもとに立っていた。理論の進展とともに、限定的な前提がより一般的なものに置き換えられるが、その過程で当初の概念自体に修正が迫られることもある。
+
+2国2財以外の場合
+リカードの貿易論は、2国2財を例題としていた[18]。2国多数財、あるいは2財多数国の場合には、比較優位の概念は容易に一般化され[19]。3国3財以上の多数国多数財の場合にも比較優位概念を拡張することはできる[20][8][6]。しかし本項比較優位の一般化に見るように、中間財貿易を含む場合の一般化は困難であり、新しいアプローチを必要とする。
+
+一国内では生産要素の移動は完全に自由であるが、国際間のでは生産要素は移動せず、生産物のみが貿易される
+リカードが仮定した前提である。多くの国際貿易論は、生産要素（労働力・資本・土地）が国・地域を越えて貿易されないと仮定してきた。移民や直接投資などにより生産要素も移動するため、1980年代以降、要素移動の貿易理論も展開された[21][要ページ番号]。また、中間財（投入財）は貿易されないというのが従来の前提であったが、最近では中間財貿易は、実証的にも理論的にも注目される対象となっている[22][23][24]。
+
+経済主体内外の輸送コスト
+運輸業を財やサービスの一つとして組み入れて考慮しても比較優位は成立する。輸送コストをモデル化するには、しばしば氷山モデル（iceberg model）が用いられている[25]。このモデルは、クルーグマン[26]を含め多くの論文に踏襲されている。
+
+貿易の利益と国家の追求目標
+比較優位論は、貿易開始ないし自由化により、貿易の利益および不利益が各経済主体にどのように作用するかを明らかにする。中間財の貿易を含むM国N財の一般的モデルにおいては、雇用されている労働者にとって実質賃金の上昇という貿易の利益を生むが、世界最終需要が増大しないかぎり、短期的には貿易自由化が失業と廃業とを生むという指摘がある[24]。従って、貿易の利益は国家（国民）がどのような事態を望ましいと考えるかに依存するとされる。
+
+出典・脚注[編集]
+[脚注の使い方]
+
+注釈[編集]
+
+
+
+↑ ある経済主体内部における各産業への労働投入係数の比率
+
+出典[編集]
+
+↑ 岡田 2009.
+↑ Samuelson, Nordhaus 1989, p. 902.
+↑ クルーグマンほか 2017a, pp. 46–50.
+↑ クルーグマンほか 2017b.
+↑ 池間 1993, p. 883.
+1 2 Jones 1961.
+↑ Deardorff 2005.
+1 2 McKenzie 1956.
+↑ Cassey 2011.
+↑ 塩沢 2014.
+↑ Andresen 2003.
+↑ Balassa 1986a.
+↑ Grubel, Lloyd 1975.
+↑  Charles van Marrewijk (2008) Intra-industry trade http://www2.econ.uu.nl/users/marrewijk/pdf/marrewijk/Intra%20Industry%20Trade.pdf
+↑ Krugman 1979.
+↑ クルーグマンほか 2017a, pp. 196–199.
+↑ https://www.nobelprize.org/prizes/economic-sciences/2008/summary/
+↑ Ricardo 1817, pp. Chapter 6, Chapter 7.
+↑ Dornbusch, Fischer, Samuelson 1977.
+↑ McKenzie 1954.
+↑ ウォン 1999.
+↑ Baldwin 2012.
+↑ Jones 2000.
+1 2 Shiozawa 2007, pp. Section 4.
+↑ Samuelson 1954.
+↑ Krugman 1993, p. 103.
+
+
+参考文献[編集]
+出典は列挙するだけでなく、脚注などを用いてどの記述の情報源であるかを明記してください。 記事の信頼性向上にご協力をお願いいたします。（2015年1月）
+単行本[編集]
+David Ricardo (1821) (英語), On the Principles of Political Economy and Taxation, John Murray, http://www.econlib.org/library/Ricardo/ricPCover.html 
+羽鳥卓也・吉澤芳樹 訳『経済学および課税の原理(上)』岩波書店、1987年5月18日。.mw-parser-output cite.citation{font-style:inherit;word-wrap:break-word}.mw-parser-output .citation q{quotes:"“""”""‘""’"}.mw-parser-output .citation.cs-ja1 q,.mw-parser-output .citation.cs-ja2 q{quotes:"「""」""『""』"}.mw-parser-output .id-lock-free.id-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg")right 0.1em center/9px no-repeat;padding-right:1em}.mw-parser-output .id-lock-limited.id-lock-limited a,.mw-parser-output .id-lock-registration.id-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg")right 0.1em center/9px no-repeat;padding-right:1em}.mw-parser-output .id-lock-subscription.id-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/a/aa/Lock-red-alt-2.svg")right 0.1em center/9px no-repeat;padding-right:1em}.mw-parser-output .cs1-ws-icon.cs1-ws-icon a{background:url("//upload.wikimedia.org/wikipedia/commons/4/4c/Wikisource-logo.svg")right 0.1em center/auto 1em no-repeat;padding-right:1em}.mw-parser-output .cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;color:var(--color-error,#bf3c2c)}.mw-parser-output .cs1-visible-error{color:var(--color-error,#bf3c2c)}.mw-parser-output .cs1-maint{display:none;color:var(--color-success,#177860);margin-left:0.3em}.mw-parser-output .cs1-kern-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}@media screen{.mw-parser-output .cs1-format{font-size:95%}}ISBN 978-4-00341-091-2。http://www.iwanami.co.jp/.BOOKS/34/2/3410910.html。 
+羽鳥卓也・吉澤芳樹 訳『経済学および課税の原理(下)』岩波書店、1987年6月16日。ISBN 978-4-00341-092-9。http://www.iwanami.co.jp/.BOOKS/34/0/3410920.html。 
+デヴィッド・リカード; 小笠原誠治. “ricardo1.pdf” (PDF). 2014年10月1日閲覧。
+デヴィッド・リカード; 吉田秀夫. “経済学及び課税の諸原理”.   青空文庫. 2014年10月1日閲覧。
+カーユー・ウォン 著、下村耕嗣, 太田博史, 大川昌幸, 小田正雄 訳『現代国際貿易論IⅡ』多賀出版、1999年。 （原書  ）
+H.G. Grubel; P.J. Lloyd (1975) (英語), Intra-Industry Trade, the Theory and Measurement of International Trade in Differentiated Products, MacMillan. 
+R.W. Jones (2000) (英語), Globalization and the theory of input trade, MIT Press 
+Paul Krugman (1993) (英語), Geography and Trade, MIT Press 
+ポール・クルーグマン; モーリス・オブストフェルド; マーク・J・メリッツ 著、山形浩生, 守岡桜 訳『クルーグマン国際経済学 理論と政策 上:貿易編 〔原書第10版〕』丸善出版、2017年。 （原書 Paul Krugman; Maurice Obstfeld; Marc Melitz (2015), International economics : Theory and policy, Pearson Education Limited ）
+ポール・クルーグマン; モーリス・オブストフェルド; マーク・J・メリッツ 著、山形浩生, 守岡桜 訳『クルーグマン国際経済学 理論と政策 下:金融編 〔原書第10版〕』丸善出版、2017年。 （原書 Paul Krugman; Maurice Obstfeld; Marc Melitz (2015), International economics : Theory and policy, Pearson Education Limited ）
+Paul A. Samuelson; William D. Nordhaus (1989) (英語), Economics. 13th ed., McGraw-Hill 
+『高校生からわかるマクロ・ミクロ経済学』河出書房新社、2013年9月10日。ISBN 978-4-309-24628-4。https://www.kawade.co.jp/np/isbn/9784309246284/。  全国学校図書館協議会選定図書
+『使えるマクロ経済学』中経出版〈図解2〉、2014年10月。ISBN 978-4-04-600591-5。http://www.chukei.co.jp/business/detail.php?id=9784046005915。 
+塩沢由典『リカード貿易問題の最終解決 - 国際価値論の復権』岩波書店、2014年。ISBN 978-4-00-025569-1。 
+
+論文・記事[編集]
+M. A. Andresen (2003). “Empirical Intra-Industry Trade: What we know and what we need to know”. Institute for Canadian Urban Research Studies:  1–60. 
+R. Baldwin (jan 2012). “Global Supply Chains: Why they Emerged, Why they Mater, and Whre are They Going”. FUNG Global Institute WORKING PAPER. 
+Andrew J. Cassey (2011-11-22). “An Application of the Ricardian Trade Model with Trade Costs”. Applied Economics Letters (Taylor & Francis) 19 (13):  1227–1230. doi:10.1080/13504851.2011.617871. http://www.tandfonline.com/doi/abs/10.1080/13504851.2011.617871 2020年7月22日閲覧。. 
+
+Rudiger Dornbusch（ルディガー・ドーンブッシュ）; Stanley Fischer（スタンレー・フィッシャー）Paul Anthony Samuelson（ポール・サミュエルソン） (1977-11). “Comparative Advantage, Trade, and Payments in a Ricardian Model with a Continuum of Goods” (PDF). American Economic Review (American Economic Association) 67 (5):  823-839. http://www.eco.uc3m.es/~desmet/trade/DFSAER1979.pdf 2020年7月22日閲覧。. 
+池間誠「国際生産特化パターンの確定:多数国多数財のケース」『一橋論叢』第110巻第6号、日本評論社、1993年12月、873-894頁、2020年7月22日閲覧。 
+岡田靖. “円高イコール交易条件改善は事実でない、輸出産業の受けた被害”. COLUMN-〔インサイト〕.   トムソン・ロイター. 2009年2月10日閲覧。
+Béla Balassa (Feb 1986). “Intra-industry specialization: a cross-country analysis”. European Economic Review 30 (1):  27–42. 
+Alan V. Deardorff (2005-11). “How Robust is Comparative Advantage?” (PDF). Review of International Economics (John Wiley & Sons) 13 (5):  1004–1016. doi:10.1111/j.1467-9396.2005.00552.x. ISSN 0953-8259. http://fordschool.umich.edu/rsie/workingpapers/Papers526-550/r537.pdf 2020年7月16日閲覧。. 
+R. Jones (jun 1961). “Comparative Advantage and the Theory of Tariffs: A Multi-Country, Multi-Commodity Model”. Review of Economic Studies (Oxford University Press) 28:  161-175. 
+P. Krugman (jun 1979). “Increasing returns, monopolistic competition, and international trade”. Journal of International Economics 9 (4):  469–479. 
+
+Lionel W. McKenzie (1954). “On Equilibrium in Graham’s Model of World Trade and Other Competitive Systems”. Econometrica (Econometric Society) 22 (2):  147-161. https://www.econometricsociety.org/publications/econometrica/1954/04/01/equilibrium-grahams-model-world-trade-and-other-competitive. 
+Lionel W. McKenzie (1956). “Specialization in Production and the Production Possibility Locus”. Review of Economic Studies 23 (3):  56-64. 
+P. Samuelson (1954). “The Transfer Problems and the Transport Cost, II: Analysis of Effectss of Trade Impediments”. Review of Economic Studies 64:  264-289. 
+Yoshinori Shiozawa (2007-3). “A New Construction of Ricardian Trade Theory / a many-country, many-commodity case with intermediate goods and choice of production techniques” (PDF). Evolutionary and Institutional Economics Review, 3 (2):  141–187. http://www.researchgate.net/profile/Yoshinori_Shiozawa/publication/233943493_A_New_Construction_of_Ricardian_Trade_Theory--A_Many-country_Many-commodity_Case_with_Intermediate_Goods_and_Choice_of_Production_Techniques/links/0c960515bf6c44d570000000 2020年7月22日閲覧。. 
+
+関連項目[編集]
+メシュエン条約
+
+表話編歴国際貿易論基本概念
+貿易全般
+交易条件
+サービス貿易
+非関税障壁
+貿易障壁
+貿易の利益
+伝統的理論
+比較優位
+絶対優位
+完全競争
+アーミントン弾力性
+新貿易理論
+規模の経済
+産業内貿易
+貿易における正確な価格指数 (The exact price index)
+独占的競争
+国際貿易における独占的競争（英語版）
+氷塊型貿易費用
+生産要素の国際移動
+オフショアリング
+直接投資
+生産の国際分業
+グローバル・バリュー・チェーン
+中間財貿易
+付加価値貿易
+フラグメンテーション
+
+理論・議論
+伝統的貿易理論
+戦略的貿易政策理論
+新貿易理論
+新々貿易理論
+雁行形態論
+幼稚産業保護論
+モデル
+リカード・モデル
+ヘクシャー＝オリーン・モデル
+特殊要素モデル
+重力モデル
+ブランダー＝スペンサー・モデル（英語版）
+ディキシット＝スティグリッツ・モデル（英語版）
+アーミントン・モデル
+フィーンストラ＝ハンソン・モデル
+マクドゥガル・モデル (The MacDougall model)
+ランカスター・モデル
+ロビー活動による保護の売買
+分析ツール
+関数
+コブ＝ダグラス型関数
+CES型関数
+準線形効用関数
+線形効用関数
+レオンチェフ型関数
+トランスログ型関数 (The translog function)
+理論
+オッファー曲線
+エッジワース・ボックス・ダイアグラム
+生産可能性フロンティア
+概念
+死荷重
+代替の弾力性
+等量曲線
+要素集約度逆転
+実証
+グルーベル＝ロイド指数
+顕示比較優位
+国際産業連関表
+符号テスト (The sign test)
+ヘッド＝リース指数
+貿易制限率
+マクドゥガル・テスト (The MacDougall test)
+有効保護率
+要素含有量
+
+結果
+定理
+宇沢＝浜田の命題
+ストルパー＝サミュエルソンの定理
+フィンドレイ＝グルバートの定理
+ヘクシャー＝オリーンの定理
+要素価格均等化定理
+要素価格非反応性定理
+ラーナーの対称性定理
+リプチンスキーの定理
+仮説
+プレビッシュ＝シンガー命題
+リンダー仮説
+逆説
+グリック＝ローズの逆説
+国境パズル
+国際弾力性パズル
+貿易喪失パズル
+ミッシング・グローバリゼーション・パズル
+メッツラーの逆説
+ラーナーの逆説
+レオンチェフの逆説
+効果
+アルキアン＝アレン効果
+自国市場効果
+第三国効果
+貿易創出効果
+貿易転換効果
+バラッサ・サミュエルソン効果
+ペン効果
+
+貿易政策
+一般的政策
+アンチ・ダンピング関税措置
+関税
+関税同盟
+緊急輸入制限
+近隣窮乏化政策
+自由貿易協定‎
+相殺関税
+不当廉売
+輸出志向型工業化
+輸出自主規制
+輸出補助金
+輸入代替工業化
+輸入割当制
+原産地規則（英語版）
+日本の政策
+日米繊維交渉
+日米貿易摩擦
+日本・EU経済連携協定
+日米貿易協定
+米国の政策
+アメリカ合衆国の関税政策の歴史
+スムート・ホーリー関税法
+米国貿易調整支援制度
+マキラドーラ
+マッキンリー関税法（英語版）
+第1次トランプ政権の関税（英語版）
+第2次トランプ政権の関税
+リベレーション・デー関税
+国際協定
+ウルグアイ・ラウンド
+関税及び貿易に関する一般協定
+恒久的通常貿易関係
+多角的繊維取極
+メルコスール
+北米自由貿易協定
+補助金及び相殺措置に関する協定
+国際機関
+世界貿易機関
+概念
+スパゲティボウル現象
+
+トピック
+チャイナショック
+近接分野
+空間経済学
+経済地理学
+新経済地理
+
+Category:国際経済学 Category:貿易 Category:国際経済学者
+典拠管理データベース 国立図書館ドイツアメリカkomparativní výhoda</span>"}]]}'>チェコイスラエルその他Yale LUX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=比較優位&oldid=106681584」から取得
+					カテゴリ: 国際経済学貿易古典派経済学経済理論経済学の用語デヴィッド・リカード隠しカテゴリ: 参照方法出典のページ番号が要望されている記事Reflistで3列を指定しているページ
+				
+			
+			
+		
+		
+			
+				
+	 最終更新 2025年10月2日 (木) 03:02 （日時は個人設定で未設定ならばUTC）。
+	ページはParsoidによってレンダリングされました。
+	テキストはクリエイティブ・コモンズ 表示-継承ライセンスのもとで利用できます。追加の条件が適用される場合があります。詳細については利用規約を参照してください。
+
+
+				
+	プライバシー・ポリシー
+	ウィキペディアについて
+	免責事項
+	法律および安全に関する連絡先
+	行動規範
+	開発者
+	統計
+	Cookieに関する声明
+	モバイルビュー
+
+
+				
+	
+	
+
+
+			
+		
+	 
+ 
+
+	
+		
+			
+				
+
+検索
+			
+		
+			
+		
+			
+				
+					
+						
+							
+								
+								
+							
+							
+						
+						検索
+					
+				
+			
+		
+		
+				
+						
+					
+						
+						
+
+目次の表示・非表示を切り替え
+						
+						
+					
+						
+						
+					
+						
+					
+			
+				比較優位
+			
+		
+		
+			
+				
+
+
+			
+			
+
+
+			
+			
+
+
+			
+			
+
+
+			
+			
+
+
+			
+			
+
+
+			
+			
+
+
+			
+		
+			
+				
+
+46 個の言語版
+			
+			
+
+話題を追加
+			
+		
+			
+				
+				
+			
+		
+	
+
+
+	
+		
+	
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-644bfbc87-kfkl9","wgBackendResponseTime":136,"wgPageParseReport":{"limitreport":{"cputime":"1.432","walltime":"2.542","ppvisitednodes":{"value":26768,"limit":1000000},"revisionsize":{"value":35557,"limit":2097152},"postexpandincludesize":{"value":245886,"limit":2097152},"templateargumentsize":{"value":43593,"limit":2097152},"expansiondepth":{"value":25,"limit":100},"expensivefunctioncount":{"value":8,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":30109,"limit":5000000},"entityaccesscount":{"value":1,"limit":500},"timingprofile":["100.00% 2156.232      1 -total","  8.43%  181.782     20 Template:Citation/core","  5.72%  123.356      9 Template:Citation","  5.34%  115.173      8 Template:Citation/core-ja-jp","  5.13%  110.558     13 Template:Cite_journal","  4.13%   89.013      4 Template:Cite_book","  2.90%   62.436      1 Template:Normdaten","  2.34%   50.515      5 Template:Navbox","  2.22%   47.818      8 Template:Citation/identifier","  1.69%   36.368     16 Template:Citation/showdateEN"]},"scribunto":{"limitreport-timeusage":{"value":"0.169","limit":"10.000"},"limitreport-memusage":{"value":6189899,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-7bd6b69d89-xnxz9","timestamp":"20261001002221","ttl":86400,"transientcontent":true,"expiry-source":"Template:Citation (#time)"}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"\u6bd4\u8f03\u512a\u4f4d","url":"https:\/\/ja.wikipedia.org\/wiki\/%E6%AF%94%E8%BC%83%E5%84%AA%E4%BD%8D","sameAs":"http:\/\/www.wikidata.org\/entity\/Q215551","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q215551","author":{"@type":"Organization","name":"\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u3078\u306e\u8ca2\u732e\u8005"},"publisher":{"@type":"Organization","name":"\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u8ca1\u56e3","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-08-22T03:54:41Z","dateModified":"2025-10-02T03:02:01Z","headline":"\u56fd\u969b\u5206\u696d\u7406\u8ad6\u306e\u4e2d\u5fc3\u6982\u5ff5\u3068\u306a\u3063\u3066\u3044\u308b\u7d4c\u6e08\u7406\u8ad6"}
+

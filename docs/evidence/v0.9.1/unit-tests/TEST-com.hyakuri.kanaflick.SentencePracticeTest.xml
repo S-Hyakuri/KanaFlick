@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hyakuri.kanaflick.SentencePracticeTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2026-10-23T08:49:49.923Z" hostname="S-HYAKURI-PC" time="0.058">
+  <properties/>
+  <testcase name="invalidAndDuplicateReadingsAreRejected" classname="com.hyakuri.kanaflick.SentencePracticeTest" time="0.026"/>
+  <testcase name="prefixTracksEditsIncludingBacktrackingAndOverlongInput" classname="com.hyakuri.kanaflick.SentencePracticeTest" time="0.0"/>
+  <testcase name="prefixAndEmptyNeverScoreWhileCompleteCompositionAdvances" classname="com.hyakuri.kanaflick.SentencePracticeTest" time="0.001"/>
+  <testcase name="packagedReadingsHaveValidAttributionAndOrderedKana" classname="com.hyakuri.kanaflick.SentencePracticeTest" time="0.025"/>
+  <testcase name="sentenceWhitespacePunctuationAndNfcKeepParticlesAndLongMark" classname="com.hyakuri.kanaflick.SentencePracticeTest" time="0.001"/>
+  <testcase name="correctSentenceAdvancesOnceAndStaleQuestionIsRejected" classname="com.hyakuri.kanaflick.SentencePracticeTest" time="0.0"/>
+  <testcase name="fullArticleIsNotCappedAtTwenty" classname="com.hyakuri.kanaflick.SentencePracticeTest" time="0.002"/>
+  <testcase name="earlyExitAndRestartResetCountsWithoutLosingArticle" classname="com.hyakuri.kanaflick.SentencePracticeTest" time="0.0"/>
+  <testcase name="skipDoesNotCountAsAttemptAndEndIsIdempotent" classname="com.hyakuri.kanaflick.SentencePracticeTest" time="0.0"/>
+  <testcase name="snapshotPreservesModeQuestionCountsAndRevision" classname="com.hyakuri.kanaflick.SentencePracticeTest" time="0.0"/>
+  <testcase name="priorWordSnapshotCanStillBeRestored" classname="com.hyakuri.kanaflick.SentencePracticeTest" time="0.001"/>
+  <testcase name="errorsRetainQuestionAndRevisionCountsOnlyOnce" classname="com.hyakuri.kanaflick.SentencePracticeTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

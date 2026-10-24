@@ -1,0 +1,146 @@
+D:\AndroidProjects\KanaFlick\app\src\main\res\drawable\startup_logo.xml:2: Warning: Limit vector icons sizes to 200×200 to keep icon drawing fast; see https://developer.android.com/studio/write/vector-asset-studio#when for more [VectorRaster]
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:width="288dp" android:height="288dp" android:viewportWidth="1536" android:viewportHeight="1536">
+                                                                                                                               ~~~~~
+
+   Explanation for issues of type "VectorRaster":
+   Vector icons require API 21 or API 24 depending on used features, but when
+   minSdkVersion is less than 21 or 24 and Android Gradle plugin 1.4 or higher
+   is used, a vector drawable placed in the drawable folder is automatically
+   moved to drawable-anydpi-v21 or drawable-anydpi-v24 and bitmap images are
+   generated for different screen resolutions for backwards compatibility.
+
+   However, there are some limitations to this raster image generation, and
+   this lint check flags elements and attributes that are not fully supported.
+   You should manually check whether the generated output is acceptable for
+   those older devices.
+
+D:\AndroidProjects\KanaFlick\gradle\libs.versions.toml:3: Warning: A newer version of androidx.core:core-ktx than 1.10.1 is available: 1.19.0 [GradleDependency]
+coreKtx = "1.10.1"
+          ~~~~~~~~
+D:\AndroidProjects\KanaFlick\gradle\libs.versions.toml:7: Warning: A newer version of androidx.lifecycle:lifecycle-runtime-ktx than 2.6.1 is available: 2.11.0 [GradleDependency]
+lifecycleRuntimeKtx = "2.6.1"
+                      ~~~~~~~
+D:\AndroidProjects\KanaFlick\gradle\libs.versions.toml:10: Warning: A newer version of androidx.compose:compose-bom than 2026.02.01 is available: 2026.09.00 [GradleDependency]
+composeBom = "2026.02.01"
+             ~~~~~~~~~~~~
+D:\AndroidProjects\KanaFlick\gradle\libs.versions.toml:13: Warning: A newer version of androidx.core:core-splashscreen than 1.0.1 is available: 1.2.0 [GradleDependency]
+androidx-core-splashscreen = { group = "androidx.core", name = "core-splashscreen", version = "1.0.1" }
+                                                                                              ~~~~~~~
+
+   Explanation for issues of type "GradleDependency":
+   This detector looks for usages of libraries where the version you are using
+   is not the current stable release. Using older versions is fine, and there
+   are cases where you deliberately want to stick with an older version.
+   However, you may simply not be aware that a more recent version is
+   available, and that is what this lint check helps find.
+
+D:\AndroidProjects\KanaFlick\gradle\libs.versions.toml:9: Warning: A newer version of org.jetbrains.kotlin.plugin.compose than 2.2.10 is available: 2.4.20 [NewerVersionAvailable]
+kotlin = "2.2.10"
+         ~~~~~~~~
+
+   Explanation for issues of type "NewerVersionAvailable":
+   This detector checks with a central repository to see if there are newer
+   versions available for the dependencies used by this project. This is
+   similar to the GradleDependency check, which checks for newer versions
+   available in the Android SDK tools and libraries, but this works with any
+   MavenCentral dependency, and connects to the library every time, which
+   makes it more flexible but also much slower.
+
+D:\AndroidProjects\KanaFlick\app\src\main\res\mipmap-anydpi\ic_launcher.xml:2: Warning: The application adaptive icon is missing a monochrome tag [MonochromeLauncherIcon]
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+^
+D:\AndroidProjects\KanaFlick\app\src\main\res\mipmap-anydpi\ic_launcher_round.xml:2: Warning: The application adaptive roundIcon is missing a monochrome tag [MonochromeLauncherIcon]
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+^
+
+   Explanation for issues of type "MonochromeLauncherIcon":
+   The system may use the coloring of the user's chosen wallpaper and theme to
+   tint app icons. Providing a <monochrome> layer (which will be used for
+   tinting) for every adaptive icon is strongly recommended, otherwise Android
+   16 QPR 2 and above will simply tint the color version of the icon, which
+   may look unusual. Devices running earlier Android versions will (with no
+   monochrome layer) show the untinted color icon for your app, which will
+   look inconsistent.
+
+D:\AndroidProjects\KanaFlick\app\src\main\java\com\hyakuri\kanaflick\ui\startup\LogoDrawable.kt:17: Warning: Use the KTX extension function String.toColorInt instead? [UseKtx]
+                Color.parseColor(from), Color.parseColor(to), Shader.TileMode.CLAMP)
+                ~~~~~~~~~~~~~~~~~~~~~~
+D:\AndroidProjects\KanaFlick\app\src\main\java\com\hyakuri\kanaflick\ui\startup\LogoDrawable.kt:17: Warning: Use the KTX extension function String.toColorInt instead? [UseKtx]
+                Color.parseColor(from), Color.parseColor(to), Shader.TileMode.CLAMP)
+                ~~~~~~~~~~~~~~~~~~~~~~
+D:\AndroidProjects\KanaFlick\app\src\main\java\com\hyakuri\kanaflick\ui\startup\LogoDrawable.kt:17: Warning: Use the KTX extension function String.toColorInt instead? [UseKtx]
+                Color.parseColor(from), Color.parseColor(to), Shader.TileMode.CLAMP)
+                                        ~~~~~~~~~~~~~~~~~~~~
+D:\AndroidProjects\KanaFlick\app\src\main\java\com\hyakuri\kanaflick\ui\startup\LogoDrawable.kt:17: Warning: Use the KTX extension function String.toColorInt instead? [UseKtx]
+                Color.parseColor(from), Color.parseColor(to), Shader.TileMode.CLAMP)
+                                        ~~~~~~~~~~~~~~~~~~~~
+D:\AndroidProjects\KanaFlick\app\src\main\java\com\hyakuri\kanaflick\ui\startup\LogoDrawable.kt:43: Warning: Use the KTX extension function Canvas.withMatrix instead? [UseKtx]
+            val count = canvas.save()
+                        ~~~~~~~~~~~~~
+D:\AndroidProjects\KanaFlick\app\src\main\java\com\hyakuri\kanaflick\ui\startup\LogoDrawable.kt:62: Warning: Use the KTX extension function Canvas.withTranslation instead? [UseKtx]
+    private inline fun translated(c: Canvas, y: Float, draw: () -> Unit) { val n = c.save(); c.translate(0f, y); draw(); c.restoreToCount(n) }
+                                                                                   ~~~~~~~~
+D:\AndroidProjects\KanaFlick\app\src\main\java\com\hyakuri\kanaflick\ui\startup\RibbonArtwork.kt:56: Warning: Use the KTX extension function Canvas.withSave instead? [UseKtx]
+        val save = canvas.save()
+                   ~~~~~~~~~~~~~
+D:\AndroidProjects\KanaFlick\app\src\main\java\com\hyakuri\kanaflick\ui\startup\WordmarkDrawable.kt:42: Warning: Use the KTX extension function Canvas.withTranslation instead? [UseKtx]
+                val save = canvas.save()
+                           ~~~~~~~~~~~~~
+
+   Explanation for issues of type "UseKtx":
+   The Android KTX libraries decorates the Android platform SDK as well as
+   various libraries with more convenient extension functions available from
+   Kotlin, allowing you to use default parameters, named parameters, and
+   more.
+
+   Available options:
+
+   **remove-defaults** (default is true):
+   Whether to skip arguments that match the defaults provided by the extension.
+
+   Extensions often provide default values for some of the parameters. For example:
+   ```kotlin
+   fun Path.readLines(charset: Charset = Charsets.UTF_8): List<String> { return Files.readAllLines(this, charset) }
+   ```
+   This lint check will by default automatically omit parameters that match the default, so if your code was calling
+
+   ```kotlin
+   Files.readAllLines(file, Charset.UTF_8)
+   ```
+   lint would replace this with
+   ```kotlin
+   file.readLines()
+   ```
+   rather than
+
+   ```kotlin
+   file.readLines(Charset.UTF_8
+   ```
+   You can turn this behavior off using this option.
+
+   To configure this option, use a `lint.xml` file with an <option> like this:
+
+   ```xml
+   <lint>
+       <issue id="UseKtx">
+           <option name="remove-defaults" value="true" />
+       </issue>
+   </lint>
+   ```
+
+   **require-present** (default is true):
+   Whether to only offer extensions already available.
+
+   This option lets you only have lint suggest extension replacements if those extensions are already available on the class path (in other words, you're already depending on the library containing the extension method.)
+
+   To configure this option, use a `lint.xml` file with an <option> like this:
+
+   ```xml
+   <lint>
+       <issue id="UseKtx">
+           <option name="require-present" value="true" />
+       </issue>
+   </lint>
+   ```
+
+0 errors, 16 warnings

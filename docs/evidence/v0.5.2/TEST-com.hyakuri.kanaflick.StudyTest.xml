@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hyakuri.kanaflick.StudyTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-09-21T05:50:39.611Z" hostname="S-HYAKURI-PC" time="0.01">
+  <properties/>
+  <testcase name="searchMatchesJapaneseReadingChineseNfcAndEmpty" classname="com.hyakuri.kanaflick.StudyTest" time="0.004"/>
+  <testcase name="samplingHasRequestedSizeNoDuplicatesAndCanReachBeyondFirstPage" classname="com.hyakuri.kanaflick.StudyTest" time="0.006"/>
+  <testcase name="twentyWordRoundCompletesOnceAndRestartPreservesSnapshot" classname="com.hyakuri.kanaflick.StudyTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

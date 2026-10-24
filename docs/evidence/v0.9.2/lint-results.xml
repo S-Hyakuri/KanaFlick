@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="6" by="lint 9.4.1">
+
+    <issue
+        id="VectorRaster"
+        severity="Warning"
+        message="Limit vector icons sizes to 200×200 to keep icon drawing fast; see https://developer.android.com/studio/write/vector-asset-studio#when for more"
+        category="Correctness"
+        priority="5"
+        summary="Vector Image Generation"
+        explanation="Vector icons require API 21 or API 24 depending on used features, but when `minSdkVersion` is less than 21 or 24 and Android Gradle plugin 1.4 or higher is used, a vector drawable placed in the `drawable` folder is automatically moved to `drawable-anydpi-v21` or `drawable-anydpi-v24` and bitmap images are generated for different screen resolutions for backwards compatibility.&#xA;&#xA;However, there are some limitations to this raster image generation, and this lint check flags elements and attributes that are not fully supported. You should manually check whether the generated output is acceptable for those older devices."
+        errorLine1="&lt;vector xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot; xmlns:aapt=&quot;http://schemas.android.com/aapt&quot; android:width=&quot;288dp&quot; android:height=&quot;288dp&quot; android:viewportWidth=&quot;1536&quot; android:viewportHeight=&quot;1536&quot;>"
+        errorLine2="                                                                                                                               ~~~~~">
+        <location
+            file="D:\AndroidProjects\KanaFlick\app\src\main\res\drawable\startup_logo.xml"
+            line="2"
+            column="128"/>
+    </issue>
+
+    <issue
+        id="GradleDependency"
+        severity="Warning"
+        message="A newer version of androidx.core:core-ktx than 1.10.1 is available: 1.19.1"
+        category="Correctness"
+        priority="4"
+        summary="Obsolete Gradle Dependency"
+        explanation="This detector looks for usages of libraries where the version you are using is not the current stable release. Using older versions is fine, and there are cases where you deliberately want to stick with an older version. However, you may simply not be aware that a more recent version is available, and that is what this lint check helps find."
+        errorLine1="coreKtx = &quot;1.10.1&quot;"
+        errorLine2="          ~~~~~~~~">
+        <location
+            file="D:\AndroidProjects\KanaFlick\gradle\libs.versions.toml"
+            line="3"
+            column="11"/>
+    </issue>
+
+    <issue
+        id="GradleDependency"
+        severity="Warning"
+        message="A newer version of androidx.lifecycle:lifecycle-runtime-ktx than 2.6.1 is available: 2.11.0"
+        category="Correctness"
+        priority="4"
+        summary="Obsolete Gradle Dependency"
+        explanation="This detector looks for usages of libraries where the version you are using is not the current stable release. Using older versions is fine, and there are cases where you deliberately want to stick with an older version. However, you may simply not be aware that a more recent version is available, and that is what this lint check helps find."
+        errorLine1="lifecycleRuntimeKtx = &quot;2.6.1&quot;"
+        errorLine2="                      ~~~~~~~">
+        <location
+            file="D:\AndroidProjects\KanaFlick\gradle\libs.versions.toml"
+            line="7"
+            column="23"/>
+    </issue>
+
+    <issue
+        id="GradleDependency"
+        severity="Warning"
+        message="A newer version of androidx.compose:compose-bom than 2026.02.01 is available: 2026.09.00"
+        category="Correctness"
+        priority="4"
+        summary="Obsolete Gradle Dependency"
+        explanation="This detector looks for usages of libraries where the version you are using is not the current stable release. Using older versions is fine, and there are cases where you deliberately want to stick with an older version. However, you may simply not be aware that a more recent version is available, and that is what this lint check helps find."
+        errorLine1="composeBom = &quot;2026.02.01&quot;"
+        errorLine2="             ~~~~~~~~~~~~">
+        <location
+            file="D:\AndroidProjects\KanaFlick\gradle\libs.versions.toml"
+            line="10"
+            column="14"/>
+    </issue>
+
+    <issue
+        id="GradleDependency"
+        severity="Warning"
+        message="A newer version of androidx.core:core-splashscreen than 1.0.1 is available: 1.2.0"
+        category="Correctness"
+        priority="4"
+        summary="Obsolete Gradle Dependency"
+        explanation="This detector looks for usages of libraries where the version you are using is not the current stable release. Using older versions is fine, and there are cases where you deliberately want to stick with an older version. However, you may simply not be aware that a more recent version is available, and that is what this lint check helps find."
+        errorLine1="androidx-core-splashscreen = { group = &quot;androidx.core&quot;, name = &quot;core-splashscreen&quot;, version = &quot;1.0.1&quot; }"
+        errorLine2="                                                                                              ~~~~~~~">
+        <location
+            file="D:\AndroidProjects\KanaFlick\gradle\libs.versions.toml"
+            line="13"
+            column="95"/>
+    </issue>
+
+    <issue
+        id="NewerVersionAvailable"
+        severity="Warning"
+        message="A newer version of org.jetbrains.kotlin.plugin.compose than 2.2.10 is available: 2.4.21"
+        category="Correctness"
+        priority="4"
+        summary="Newer Library Versions Available"
+        explanation="This detector checks with a central repository to see if there are newer versions available for the dependencies used by this project. This is similar to the `GradleDependency` check, which checks for newer versions available in the Android SDK tools and libraries, but this works with any MavenCentral dependency, and connects to the library every time, which makes it more flexible but also **much** slower."
+        errorLine1="kotlin = &quot;2.2.10&quot;"
+        errorLine2="         ~~~~~~~~">
+        <location
+            file="D:\AndroidProjects\KanaFlick\gradle\libs.versions.toml"
+            line="9"
+            column="10"/>
+    </issue>
+
+    <issue
+        id="MonochromeLauncherIcon"
+        severity="Warning"
+        message="The application adaptive icon is missing a monochrome tag"
+        category="Usability:Icons"
+        priority="6"
+        summary="Monochrome icon is not defined"
+        explanation="The system may use the coloring of the user&apos;s chosen wallpaper and theme to tint app icons. Providing a `&lt;monochrome>` layer (which will be used for tinting) for every adaptive icon is strongly recommended, otherwise Android 16 QPR 2 and above will simply tint the color version of the icon, which may look unusual. Devices running earlier Android versions will (with no monochrome layer) show the untinted color icon for your app, which will look inconsistent."
+        errorLine1="&lt;adaptive-icon xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;>"
+        errorLine2="^">
+        <location
+            file="D:\AndroidProjects\KanaFlick\app\src\main\res\mipmap-anydpi\ic_launcher.xml"
+            line="2"
+            column="1"/>
+    </issue>
+
+    <issue
+        id="MonochromeLauncherIcon"
+        severity="Warning"
+        message="The application adaptive roundIcon is missing a monochrome tag"
+        category="Usability:Icons"
+        priority="6"
+        summary="Monochrome icon is not defined"
+        explanation="The system may use the coloring of the user&apos;s chosen wallpaper and theme to tint app icons. Providing a `&lt;monochrome>` layer (which will be used for tinting) for every adaptive icon is strongly recommended, otherwise Android 16 QPR 2 and above will simply tint the color version of the icon, which may look unusual. Devices running earlier Android versions will (with no monochrome layer) show the untinted color icon for your app, which will look inconsistent."
+        errorLine1="&lt;adaptive-icon xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;>"
+        errorLine2="^">
+        <location
+            file="D:\AndroidProjects\KanaFlick\app\src\main\res\mipmap-anydpi\ic_launcher_round.xml"
+            line="2"
+            column="1"/>
+    </issue>
+
+    <issue
+        id="UseKtx"
+        severity="Warning"
+        message="Use the KTX function `createBitmap` instead?"
+        category="Productivity"
+        priority="6"
+        summary="Use KTX extension function"
+        explanation="The Android KTX libraries decorates the Android platform SDK as well as various libraries with more convenient extension functions available from Kotlin, allowing you to use default parameters, named parameters, and more."
+        errorLine1="            val bitmap = Bitmap.createBitmap(width * 3, height * 3, Bitmap.Config.ARGB_8888)"
+        errorLine2="                         ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="D:\AndroidProjects\KanaFlick\app\src\main\java\com\hyakuri\kanaflick\ui\BrandWordmark.kt"
+            line="37"
+            column="26"/>
+    </issue>
+
+    <issue
+        id="UseKtx"
+        severity="Warning"
+        message="Use the KTX extension function `String.toColorInt` instead?"
+        category="Productivity"
+        priority="6"
+        summary="Use KTX extension function"
+        explanation="The Android KTX libraries decorates the Android platform SDK as well as various libraries with more convenient extension functions available from Kotlin, allowing you to use default parameters, named parameters, and more."
+        errorLine1="                Color.parseColor(from), Color.parseColor(to), Shader.TileMode.CLAMP)"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="D:\AndroidProjects\KanaFlick\app\src\main\java\com\hyakuri\kanaflick\ui\startup\LogoDrawable.kt"
+            line="17"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="UseKtx"
+        severity="Warning"
+        message="Use the KTX extension function `String.toColorInt` instead?"
+        category="Productivity"
+        priority="6"
+        summary="Use KTX extension function"
+        explanation="The Android KTX libraries decorates the Android platform SDK as well as various libraries with more convenient extension functions available from Kotlin, allowing you to use default parameters, named parameters, and more."
+        errorLine1="                Color.parseColor(from), Color.parseColor(to), Shader.TileMode.CLAMP)"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="D:\AndroidProjects\KanaFlick\app\src\main\java\com\hyakuri\kanaflick\ui\startup\LogoDrawable.kt"
+            line="17"
+            column="17"/>
+    </issue>
+
+    <issue
+        id="UseKtx"
+        severity="Warning"
+        message="Use the KTX extension function `String.toColorInt` instead?"
+        category="Productivity"
+        priority="6"
+        summary="Use KTX extension function"
+        explanation="The Android KTX libraries decorates the Android platform SDK as well as various libraries with more convenient extension functions available from Kotlin, allowing you to use default parameters, named parameters, and more."
+        errorLine1="                Color.parseColor(from), Color.parseColor(to), Shader.TileMode.CLAMP)"
+        errorLine2="                                        ~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="D:\AndroidProjects\KanaFlick\app\src\main\java\com\hyakuri\kanaflick\ui\startup\LogoDrawable.kt"
+            line="17"
+            column="41"/>
+    </issue>
+
+    <issue
+        id="UseKtx"
+        severity="Warning"
+        message="Use the KTX extension function `String.toColorInt` instead?"
+        category="Productivity"
+        priority="6"
+        summary="Use KTX extension function"
+        explanation="The Android KTX libraries decorates the Android platform SDK as well as various libraries with more convenient extension functions available from Kotlin, allowing you to use default parameters, named parameters, and more."
+        errorLine1="                Color.parseColor(from), Color.parseColor(to), Shader.TileMode.CLAMP)"
+        errorLine2="                                        ~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="D:\AndroidProjects\KanaFlick\app\src\main\java\com\hyakuri\kanaflick\ui\startup\LogoDrawable.kt"
+            line="17"
+            column="41"/>
+    </issue>
+
+    <issue
+        id="UseKtx"
+        severity="Warning"
+        message="Use the KTX extension function `Canvas.withMatrix` instead?"
+        category="Productivity"
+        priority="6"
+        summary="Use KTX extension function"
+        explanation="The Android KTX libraries decorates the Android platform SDK as well as various libraries with more convenient extension functions available from Kotlin, allowing you to use default parameters, named parameters, and more."
+        errorLine1="            val count = canvas.save()"
+        errorLine2="                        ~~~~~~~~~~~~~">
+        <location
+            file="D:\AndroidProjects\KanaFlick\app\src\main\java\com\hyakuri\kanaflick\ui\startup\LogoDrawable.kt"
+            line="44"
+            column="25"/>
+    </issue>
+
+    <issue
+        id="UseKtx"
+        severity="Warning"
+        message="Use the KTX extension function `Canvas.withTranslation` instead?"
+        category="Productivity"
+        priority="6"
+        summary="Use KTX extension function"
+        explanation="The Android KTX libraries decorates the Android platform SDK as well as various libraries with more convenient extension functions available from Kotlin, allowing you to use default parameters, named parameters, and more."
+        errorLine1="    private inline fun translated(c: Canvas, y: Float, draw: () -> Unit) { val n = c.save(); c.translate(0f, y); draw(); c.restoreToCount(n) }"
+        errorLine2="                                                                                   ~~~~~~~~">
+        <location
+            file="D:\AndroidProjects\KanaFlick\app\src\main\java\com\hyakuri\kanaflick\ui\startup\LogoDrawable.kt"
+            line="63"
+            column="84"/>
+    </issue>
+
+    <issue
+        id="UseKtx"
+        severity="Warning"
+        message="Use the KTX extension function `Canvas.withSave` instead?"
+        category="Productivity"
+        priority="6"
+        summary="Use KTX extension function"
+        explanation="The Android KTX libraries decorates the Android platform SDK as well as various libraries with more convenient extension functions available from Kotlin, allowing you to use default parameters, named parameters, and more."
+        errorLine1="        val save = canvas.save()"
+        errorLine2="                   ~~~~~~~~~~~~~">
+        <location
+            file="D:\AndroidProjects\KanaFlick\app\src\main\java\com\hyakuri\kanaflick\ui\startup\RibbonArtwork.kt"
+            line="56"
+            column="20"/>
+    </issue>
+
+    <issue
+        id="UseKtx"
+        severity="Warning"
+        message="Use the KTX extension function `Canvas.withTranslation` instead?"
+        category="Productivity"
+        priority="6"
+        summary="Use KTX extension function"
+        explanation="The Android KTX libraries decorates the Android platform SDK as well as various libraries with more convenient extension functions available from Kotlin, allowing you to use default parameters, named parameters, and more."
+        errorLine1="                val save = canvas.save()"
+        errorLine2="                           ~~~~~~~~~~~~~">
+        <location
+            file="D:\AndroidProjects\KanaFlick\app\src\main\java\com\hyakuri\kanaflick\ui\startup\WordmarkDrawable.kt"
+            line="42"
+            column="28"/>
+    </issue>
+
+</issues>

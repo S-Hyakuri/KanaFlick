@@ -1,0 +1,1649 @@
+
+
+
+
+限界効用 - Wikipedia
+(function(){var className="client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard";var cookie=document.cookie.match(/(?:^|; )jawikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\w+$|[^\w-]+/g,'')+'-clientpref-\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"ja","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"2166b360-f8c4-416c-a8c6-b2c7fd85577d","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"限界効用","wgTitle":"限界効用","wgCurRevisionId":104752976,"wgRevisionId":104752976,"wgArticleId":57615,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["出典を必要とする記事/2009年9月","効用","厚生経済学","ミクロ経済学"],"wgPageViewLanguage":"ja","wgPageContentLanguage":"ja","wgPageContentModel":"wikitext","wgRelevantPageName":"限界効用","wgRelevantArticleId":57615,"wgTempUserName":null,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgCiteReferencePreviewsActive":true,"wgConfirmEditCaptchaNeededForGenericEdit":"hcaptcha","wgConfirmEditForceShowCaptcha":false,"wgConfirmEditHCaptchaSiteKey":"5d0c670e-a5f4-4258-ad16-1f42792c9c62","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgMediaViewerMobileBeta":false,"wgPopupsFlags":0,"wgVisualEditor":{"pageLanguageCode":"ja","pageLanguageDir":"ltr","pageVariantFallbacks":"ja"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":true,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgParsoidHtmlVersion":"2.8.0","parsermigration-parsoid":true,"wgTestKitchenUserExperiments":{"overrides":[],"enrolled":[],"assigned":[],"subject_ids":[]},"wgEditSubmitButtonLabelPublish":true,"wgVisualEditorPageIsDisambiguation":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":false,"wgVector2022LanguageInHeader":true,"wgULSisLanguageSelectorEmpty":false,"wgULSLanguageSelectorV2Enabled":true,"wgWikibaseItemId":"Q842271","wgCheckUserClientHintsHeadersJsApi":["brands","architecture","bitness","fullVersionList","mobile","model","platform","platformVersion"]};
+RLSTATE={"ext.gadget.PDFLinkIcon":"ready","ext.gadget.RedirectColor":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.math.styles":"ready","ext.cite.parsoid.styles":"ready","ext.cite.styles":"ready","mediawiki.skinning.content.parsoid":"ready","ext.wikimediamessages.styles":"ready","skins.vector.search.codex.styles":"ready","skins.vector.styles":"ready","skins.vector.icons":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.math.polyfills","ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.NormalizeCharWidth","ext.gadget.suppressEnterAtSummaryBox","ext.gadget.charinsert","ext.gadget.WikiMiniAtlas","ext.gadget.switcher","ext.gadget.protectionIndicator","ext.urlShortener.toolbar","ext.centralauth.centralautologin","ext.testKitchen","ext.wikimediaCustomizations.donorAccountCreation","mmv.bootstrap","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.cx.uls.quick.actions","wikibase.client.vector-2022","wikibase.databox.fromWikidata","ext.checkUser.clientHints","ext.quicksurveys.init"];
+(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+コンテンツにスキップ
+
+	
+		
+			
+				
+
+	
+	
+
+メインメニュー
+	
+	
+
+
+				
+		
+
+	
+	メインメニュー
+	サイドバーに移動
+	非表示
+
+
+	
+
+	
+		案内
+	
+	
+		
+		
+			
+			メインページコミュニティ・ポータル最近の出来事新しいページ最近の更新おまかせ表示練習用ページアップロード (ウィキメディア・コモンズ)特別ページ
+		
+		
+	
+
+
+	
+
+	
+		ヘルプ
+	
+	
+		
+		
+			
+			ヘルプ利用案内井戸端お知らせバグの報告ウィキペディアに関するお問い合わせ
+		
+		
+	
+
+
+
+
+				
+
+	
+
+
+		
+			
+
+	
+	
+		
+		
+	
+
+
+		
+		
+			
+
+	
+
+検索
+	
+	
+		
+			
+				
+					
+						
+						
+					
+					
+				
+				検索
+			
+		
+	
+
+
+			
+	
+	
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+	
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+	
+		
+
+	
+	
+
+表示
+	
+	
+
+
+			
+				
+			
+		
+	
+
+
+	
+	
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+	
+
+	
+		
+		
+			寄付
+
+アカウント作成
+
+ログイン
+
+
+			
+		
+		
+	
+
+
+	
+	
+
+	
+	
+
+個人用ツール
+	
+	
+
+
+		
+
+	
+		
+		
+			
+
+寄付
+
+
+
+アカウント作成
+
+
+
+ログイン
+
+
+			
+		
+		
+	
+
+
+	
+	
+
+
+
+
+		
+	
+
+
+	
+		
+			
+		
+		
+			
+		
+			
+				
+				
+				
+		
+		
+	
+	
+				
+					
+					
+	
+	目次
+	サイドバーに移動
+	非表示
+
+
+
+	
+		
+			
+				ページ先頭
+			
+		
+		
+		
+			
+				1
+				数学的定義
+			
+		
+		
+		
+		
+	
+	
+		
+			
+				2
+				限界代替率との関係
+			
+		
+		
+		
+		
+	
+	
+		
+			
+				3
+				効用最大化との関係
+			
+		
+		
+		
+		
+	
+	
+		
+			
+				4
+				ゴッセンの法則
+			
+		
+		
+			
+				
+				ゴッセンの法則サブセクションを切り替えます
+			
+		
+		
+			
+			
+				
+					4.1
+					限界効用逓減の法則が成立する理由
+				
+			
+			
+			
+			
+		
+	
+	
+	
+		
+			
+				5
+				歴史
+			
+		
+		
+		
+		
+	
+	
+		
+			
+				6
+				出典
+			
+		
+		
+		
+		
+	
+	
+		
+			
+				7
+				関連項目
+			
+		
+		
+		
+		
+	
+
+
+
+					
+		
+			
+		
+		
+			
+				
+					
+						
+
+	
+	
+
+目次の表示・非表示を切り替え
+	
+	
+
+
+							
+			
+		
+	
+
+
+					
+					限界効用
+			
+
+	
+	
+
+41 個の言語版
+	
+	
+
+		
+			
+			
+				
+				العربيةAzərbaycancaБеларускаяБългарскиবাংলাCatalàCorsuČeštinaDeutschΕλληνικάEnglishEspañolفارسیSuomiFrançaisעבריתहिन्दीHrvatskiMagyarՀայերենBahasa IndonesiaItaliano한국어ລາວLietuviųनेपालीNederlandsNorsk bokmålPolskiPortuguêsRomânăРусскийSimple EnglishSlovenčinaSvenskaTagalogTürkçeУкраїнськаOʻzbekcha / ўзбекчаTiếng Việt中文
+			
+			リンクを編集
+		
+
+	
+
+
+				
+					
+						
+							
+								
+
+	
+		
+		
+			ページ
+
+ノート
+
+
+			
+		
+		
+	
+
+
+								
+
+	
+	日本語
+	
+	
+
+
+					
+
+	
+		
+		
+			
+			
+		
+		
+	
+
+
+				
+	
+
+
+							
+						
+						
+							
+			    
+
+	
+		
+		
+			閲覧
+
+編集
+
+履歴を表示
+
+
+			
+		
+		
+	
+
+
+			
+
+							
+								
+
+	
+	
+
+ツール
+	
+	
+
+
+									
+						
+
+	
+	ツール
+	サイドバーに移動
+	非表示
+
+
+	
+
+	
+		操作
+	
+	
+		
+		
+			
+
+閲覧
+
+
+
+編集
+
+
+
+履歴を表示
+
+
+			
+		
+		
+	
+
+
+
+	
+		全般
+	
+	
+		
+		
+			
+			リンク元関連ページの更新状況ファイルをアップロードこの版への固定リンクページ情報このページを引用短縮URLを取得するレガシーパーサーに切り替え
+		
+		
+	
+
+
+
+	
+		印刷/書き出し
+	
+	
+		
+		
+			
+			ブックの新規作成PDF 形式でダウンロード印刷用バージョン
+		
+		
+	
+
+
+
+	
+		他のプロジェクト
+	
+	
+		
+		
+			
+			コモンズウィキデータ項目
+		
+		
+	
+
+
+
+
+									
+				
+	
+
+
+							
+						
+					
+				
+				
+					
+						
+							
+				
+							
+		
+						
+							
+				
+	
+	表示
+	サイドバーに移動
+	非表示
+
+
+
+
+
+							
+		
+					
+				
+				
+					
+							
+		
+
+						出典: フリー百科事典『ウィキペディア（Wikipedia）』
+						
+						
+					
+					
+					.mw-parser-output .ambox{border:1px solid #a2a9b1;border-left:10px solid #36c;background-color:#fbfbfb;box-sizing:border-box}.mw-parser-output .ambox+link+.ambox,.mw-parser-output .ambox+link+style+.ambox,.mw-parser-output .ambox+link+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+style+.ambox,.mw-parser-output .ambox+.mw-empty-elt+link+link+.ambox{margin-top:-1px}html body.mediawiki .mw-parser-output .ambox.mbox-small-left{margin:4px 1em 4px 0;overflow:hidden;width:238px;border-collapse:collapse;font-size:88%;line-height:1.25em}.mw-parser-output .ambox-speedy{border-left:10px solid #b32424;background-color:#fee7e6}.mw-parser-output .ambox-delete{border-left:10px solid #b32424}.mw-parser-output .ambox-content{border-left:10px solid #f28500}.mw-parser-output .ambox-style{border-left:10px solid #fc3}.mw-parser-output .ambox-move{border-left:10px solid #9932cc}.mw-parser-output .ambox-protection{border-left:10px solid #a2a9b1}.mw-parser-output .ambox .mbox-text{border:none;padding:0.25em 0.5em;width:100%;font-size:90%}.mw-parser-output .ambox .mbox-image{border:none;padding:2px 0 2px 0.5em;text-align:center}.mw-parser-output .ambox .mbox-imageright{border:none;padding:2px 0.5em 2px 0;text-align:center}.mw-parser-output .ambox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .ambox .mbox-image-div{width:52px}html.client-js body.skin-minerva .mw-parser-output .mbox-text-span{margin-left:23px!important}@media(min-width:720px){.mw-parser-output .ambox{margin:0 10%}}@media print{body.ns-0 .mw-parser-output .ambox{display:none!important}}この記事は検証可能な参考文献や出典が全く示されていないか、不十分です。 出典を追加して記事の信頼性向上にご協力ください。（このテンプレートの使い方）出典検索?: "限界効用" – ニュース · 書籍 · スカラー · CiNii · J-STAGE · NDL · dlib.jp · ジャパンサーチ · TWL  (2009年9月)
+限界効用（げんかいこうよう、英: marginal utility）とは、財（モノ、およびサービス）を1単位追加して消費することによる効用（財から得られる満足度）の増加分のこと[1]。ミクロ経済学の消費者理論で用いられる概念である。
+
+「限界」の意味については限界 (経済学)を参照のこと。
+
+数学的定義[編集]
+
+  
+    
+      
+        X
+        =
+        
+          
+            R
+          
+          
+            +
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle X=\mathbb {R} _{+}^{n}}
+  
+を消費集合とし（
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+は自然数）、
+  
+    
+      
+        u
+        :
+        X
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle u:X\to \mathbb {R} }
+  
+を効用関数とする。財
+  
+    
+      
+        i
+        =
+        1
+        ,
+        …
+        ,
+        n
+      
+    
+    {\displaystyle i=1,\dots ,n}
+  
+の限界効用とは、財
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+の消費量についての効用関数の偏微分
+  
+    
+      
+        
+          
+            
+              ∂
+              u
+              (
+              x
+              )
+            
+            
+              ∂
+              
+                x
+                
+                  i
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\partial u(x)}{\partial x_{i}}}}
+  
+のことを言う。ある財について、その消費量を少し増やしたときの、消費量の増加に対する効用の増加の比を表している。
+
+序数的効用の立場（効用には順序関係のみが存在し、量や加減乗除の演算が定義できないという立場）からは、効用の増加分が計算できないため、限界効用は意味を持たないことになる。序数的効用の立場では、効用関数は
+  
+    
+      
+        u
+        :
+        X
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle u:X\to \mathbb {R} }
+  
+ではなく、
+  
+    
+      
+        u
+        :
+        X
+        →
+        P
+      
+    
+    {\displaystyle u:X\to P}
+  
+ただし
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+  
+は順序集合として定義されるため、効用の差や和は定義されない。便宜的に効用関数の値域を実数とする場合もあるが、それは「順序集合としての実数」であって、効用の差や和を計算することは許されない。効用の差や和を許す立場を、基数的効用と言う。
+そもそも、「限界」の議論に、序数的効用の立場を持ち込むことは前提を否定する行為である。
+
+限界代替率との関係[編集]
+財
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+  
+で測った財
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+の限界代替率
+  
+    
+      
+        
+          
+            M
+            R
+            S
+          
+          
+            i
+            j
+          
+        
+        (
+        x
+        )
+      
+    
+    {\displaystyle \mathrm {MRS} _{ij}(x)}
+  
+は、財
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+の限界効用と財
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+  
+の限界効用の比と等しくなる。すなわち、
+
+  
+    
+      
+        
+          
+            M
+            R
+            S
+          
+          
+            i
+            j
+          
+        
+        (
+        x
+        )
+        =
+        
+          
+            
+              ∂
+              u
+              (
+              x
+              )
+              
+                /
+              
+              ∂
+              
+                x
+                
+                  i
+                
+              
+            
+            
+              ∂
+              u
+              (
+              x
+              )
+              
+                /
+              
+              ∂
+              
+                x
+                
+                  j
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {MRS} _{ij}(x)={\frac {\partial u(x)/\partial x_{i}}{\partial u(x)/\partial x_{j}}}}
+  
+である。
+
+「序数的効用の立場からも、限界代替率は意味のある概念であり、限界効用自体は意味はないが、限界効用の比は意味を持つことになる」などということはなく、序数的効用であれば「限界効用の比」は定義も計算もできない。ただし、序数的効用の立場でも、「限界代替率」（財
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+を微小に
+  
+    
+      
+        ∂
+        
+          x
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \partial x_{i}}
+  
+増加させ、財
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+  
+を微小に
+  
+    
+      
+        ∂
+        
+          x
+          
+            j
+          
+        
+      
+    
+    {\displaystyle \partial x_{j}}
+  
+減少させ、元の状態と同じ効用になるようにする比率）は、
+  
+    
+      
+        −
+        
+          
+            
+            
+              ∂
+              
+                x
+                
+                  j
+                
+              
+              
+                /
+              
+              ∂
+              
+                x
+                
+                  i
+                
+              
+            
+            |
+          
+          
+            u
+          
+        
+      
+    
+    {\displaystyle -\left.\partial x_{j}/\partial x_{i}\right|_{u}}
+  
+と「限界効用の比」を介さずに定義可能である。
+
+効用最大化との関係[編集]
+単純な定数的予算制約下での効用最大化を考える。
+財
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  
+の価格を
+  
+    
+      
+        
+          p
+          
+            i
+          
+        
+      
+    
+    {\displaystyle p_{i}}
+  
+(定数)とし、
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+  
+を予算総額(定数)とした場合、
+予算制約：
+  
+    
+      
+        I
+        =
+        
+          Σ
+          
+            i
+          
+        
+        
+          p
+          
+            i
+          
+        
+        
+          x
+          
+            i
+          
+        
+      
+    
+    {\displaystyle I=\Sigma _{i}p_{i}x_{i}}
+  
+
+という条件付きでの効用最大化は、内点においては、
+1円当たりの限界効用がすべての財で等しい
+
+  
+    
+      
+        i
+        ,
+        j
+        =
+        1
+        ,
+        …
+        ,
+        n
+      
+    
+    {\displaystyle i,j=1,\dots ,n}
+  
+について、
+  
+    
+      
+        
+          
+            
+              ∂
+              u
+              (
+              x
+              )
+              
+                /
+              
+              ∂
+              
+                x
+                
+                  i
+                
+              
+            
+            
+              p
+              
+                i
+              
+            
+          
+        
+        =
+        
+          
+            
+              ∂
+              u
+              (
+              x
+              )
+              
+                /
+              
+              ∂
+              
+                x
+                
+                  j
+                
+              
+            
+            
+              p
+              
+                j
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {\partial u(x)/\partial x_{i}}{p_{i}}}={\frac {\partial u(x)/\partial x_{j}}{p_{j}}}}
+  
+
+が成り立つように
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+      
+    
+    {\displaystyle x_{i}}
+  
+に予算配分し、消費した場合に達成される。
+上記は連立方程式であるが、未知数
+  
+    
+      
+        
+          x
+          
+            i
+          
+        
+      
+    
+    {\displaystyle x_{i}}
+  
+は
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  
+個に対し、
+方程式は、予算制約が１個、限界効用の式が（
+  
+    
+      
+        i
+        =
+        1
+        ,
+        …
+        ,
+        n
+        −
+        1
+      
+    
+    {\displaystyle i=1,\dots ,n-1}
+  
+、
+  
+    
+      
+        j
+        =
+        n
+      
+    
+    {\displaystyle j=n}
+  
+について言えれば、他の式は成立するため）実質的に
+  
+    
+      
+        n
+        −
+        1
+      
+    
+    {\displaystyle n-1}
+  
+個であり、通常は、解を一つに決定することができる。
+
+なお、効用最大化の条件は、限界効用を使わず、限界代替率を用いて次のように表すこともできる。
+
+  
+    
+      
+        i
+        ,
+        j
+        =
+        1
+        ,
+        …
+        ,
+        n
+      
+    
+    {\displaystyle i,j=1,\dots ,n}
+  
+について
+  
+    
+      
+        −
+        
+          
+            
+            
+              
+                
+                  ∂
+                  
+                    x
+                    
+                      j
+                    
+                  
+                
+                
+                  ∂
+                  
+                    x
+                    
+                      i
+                    
+                  
+                
+              
+            
+            |
+          
+          
+            u
+          
+        
+        =
+        
+          
+            
+              p
+              
+                i
+              
+            
+            
+              p
+              
+                j
+              
+            
+          
+        
+      
+    
+    {\displaystyle -\left.{\frac {\partial x_{j}}{\partial x_{i}}}\right|_{u}={\frac {p_{i}}{p_{j}}}}
+  
+
+
+ゴッセンの法則[編集]
+財の消費量が増えるにつれて、その財の限界効用が小さくなることを限界効用逓減の法則、または、ゴッセンの第1法則という。
+
+  
+    
+      
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              u
+              (
+              x
+              )
+            
+            
+              ∂
+              
+                x
+                
+                  i
+                
+                
+                  2
+                
+              
+            
+          
+        
+        <
+        0
+      
+    
+    {\displaystyle {\frac {\partial ^{2}u(x)}{\partial x_{i}^{2}}}<0}
+  
+
+序数的効用の立場では、「限界効用」自体を否定する為、この法則は意味を持たない。（序数的効用の立場では、限界効用逓減の法則を説明できない。）
+
+消費者が効用を最大化するとき、1円当たりの限界効用がすべての財で等しくなるように選択することを限界効用均等の法則、または、ゴッセンの第2法則とも呼ばれる。
+「序数的効用の立場からも意味を持つ法則」である訳ではなく、序数的効用の立場では「限界効用」自体を否定し、定義も算出もできないとするため、この法則は意味をなさない。#効用最大化との関係で述べた内容である。
+
+限界効用逓減の法則が成立する理由[編集]
+限界効用逓減の法則が成立する理由は、「人が合理的に行動する」ことにある。
+ある人が「宝物庫から何でも一つもらっても良い」という権利を与えられた時、その人が合理的であれば、その人はその宝物庫内で最も良いと思う物（効用の最も高い物）を取る。次に「もう一個、宝物庫から何でも一つもらって良い」となった場合、その人はその宝物庫に残った物の中で最も良いと思う物（効用の最も高い物）を取る。このため、
+１番目の物の効用≧２番目の物の効用
+となる。同様に３番目、４番目を考えていけば、人が合理的に行動すれば、
+１番目の物の効用≧２番目の物の効用≧３番目の物の効用≧４番目の物の効用………
+となり、「宝物庫から何か一つもらう権利」という同じ財を消費することで得られる効用は減少してゆく。
+このように、限界効用逓減の法則は、「人が合理的に行動する」結果として成立する法則である。
+
+歴史[編集]
+限界効用理論には18世紀頃からの長い歴史があるが、限界効用理論の確立は1871年から1874年にかけてカール・メンガー、ウィリアム・スタンレー・ジェヴォンズ、レオン・ワルラスの3名により、相次いで独立に出版された著作による。
+限界効用（および限界生産力など）の概念は、「marginal 限界」という新しい手法によって経済学と数学（微分）とを結びつけるとともに、それまでの労働価値説に代わる価値の根源に対する新しい考え方を提示して、経済学を発展させることになった。これらの経済学史上の変革を限界革命と呼ぶ。
+
+しかしながら、効用関数が実在するのか、特に効用の大きさが数値（あるいは金額）として測定できるのか、ということ（可測性の問題）は、当初から議論の対象であり、効用理論のアキレス腱であった。
+
+それに対して、ジョン・ヒックスの「価値の理論」によって、需要の決定で意味をもつのは複数の財の組合せにおけるそれぞれの効用の数値ではなく、複数の財の組合せのあいだの効用の大小関係（選好）であることが周知のこととなった。いいかえれば、同じ無差別曲線が描ける別の効用関数は同一の選好をあらわす。したがって、財の組合せに対して、同一の選好をあらわす効用関数は複数ある。たとえば、効用関数
+  
+    
+      
+        u
+        :
+        X
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle u:X\to \mathbb {R} }
+  
+に対して、単調増加関数
+  
+    
+      
+        f
+        :
+        
+          R
+        
+        →
+        
+          R
+        
+      
+    
+    {\displaystyle f:\mathbb {R} \to \mathbb {R} }
+  
+によって変換された効用関数
+  
+    
+      
+        f
+        ∘
+        u
+      
+    
+    {\displaystyle f\circ u}
+  
+は変換前の効用関数と同じ選好を表わす。
+この点でいえば、たとえ限界効用が逓減しなくても、原点に凸な無差別曲線が描ければ、消費者理論においては問題はない。このことは消費者理論において、限界効用逓減と効用の数値が、つまり、効用の可測性の問題が無意味であることとして受け取られた。
+
+しかしながら、ヒックスの業績がひろまる一方で、フォン・ノイマンとオスカル・モルゲンシュテルンが期待効用仮説をとなえ、経済学にふたたび基数的議論を復活させた。世界の事象が不確実なものであるとき、人々はある種の効用の期待値を最大化するように行動することが公理として提案された。すなわち、確率変数（くじ）
+  
+    
+      
+        X
+      
+    
+    {\displaystyle X}
+  
+が選択肢であるとするとき、確率変数上で定義される選好関係を表現する効用関数
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+  
+は、ある種の関数
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  
+が存在して、
+  
+    
+      
+        U
+        (
+        X
+        )
+        =
+        E
+        (
+        u
+        (
+        X
+        )
+        )
+      
+    
+    {\displaystyle U(X)=E(u(X))}
+  
+という形をとる。この関数
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  
+は、確率変数の各実現値の効用を表わすある種の効用関数と見ることができる。この期待効用仮説に従うとき、人々の不確実性への態度は
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  
+の曲率に依存する。期待効用仮説では選好に中立的な変換は、増加関数一般ではなく、線形の増加関数についてしか成り立たない。この場合、限界効用が逓減する
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  
+と同一の選好は、同じく限界効用が逓減する関数でしか表せない。要するに、
+  
+    
+      
+        u
+      
+    
+    {\displaystyle u}
+  
+は基数的である。ただし、確率変数上の選好を表現する効用関数
+  
+    
+      
+        U
+      
+    
+    {\displaystyle U}
+  
+は序数的である。
+
+出典[編集]
+
+↑ 奥野正寛 編著、『ミクロ経済学』、東京大学出版会、2008。
+
+
+関連項目[編集]
+効用
+限界効用理論
+限界非効用
+サンクトペテルブルクのパラドックス
+
+典拠管理データベース 国立図書館ドイツMarginal utility</span>"}]]}'>アメリカUtilité marginale</span>"}]]}'>フランスUtilité marginale</span>"}]]}'>BnF data日本イスラエルその他Yale LUX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+「https://ja.wikipedia.org/w/index.php?title=限界効用&oldid=104752976」から取得
+					カテゴリ: 効用厚生経済学ミクロ経済学隠しカテゴリ: 出典を必要とする記事/2009年9月
+				
+			
+			
+		
+		
+			
+				
+	 最終更新 2025年5月6日 (火) 00:56 （日時は個人設定で未設定ならばUTC）。
+	ページはParsoidによってレンダリングされました。
+	テキストはクリエイティブ・コモンズ 表示-継承ライセンスのもとで利用できます。追加の条件が適用される場合があります。詳細については利用規約を参照してください。
+
+
+				
+	プライバシー・ポリシー
+	ウィキペディアについて
+	免責事項
+	法律および安全に関する連絡先
+	行動規範
+	開発者
+	統計
+	Cookieに関する声明
+	モバイルビュー
+
+
+				
+	
+	
+
+
+			
+		
+	 
+ 
+
+	
+		
+			
+				
+
+検索
+			
+		
+			
+		
+			
+				
+					
+						
+							
+								
+								
+							
+							
+						
+						検索
+					
+				
+			
+		
+		
+				
+						
+					
+						
+						
+
+目次の表示・非表示を切り替え
+						
+						
+					
+						
+						
+					
+						
+					
+			
+				限界効用
+			
+		
+		
+			
+				
+
+
+			
+			
+
+
+			
+			
+
+
+			
+			
+
+
+			
+			
+
+
+			
+			
+
+
+			
+			
+
+
+			
+		
+			
+				
+
+41 個の言語版
+			
+			
+
+話題を追加
+			
+		
+			
+				
+				
+			
+		
+	
+
+
+	
+		
+	
+
+(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw-web.codfw.main-644bfbc87-47h85","wgBackendResponseTime":106,"wgPageParseReport":{"limitreport":{"cputime":"0.233","walltime":"1.373","ppvisitednodes":{"value":634,"limit":1000000},"revisionsize":{"value":10580,"limit":2097152},"postexpandincludesize":{"value":15124,"limit":2097152},"templateargumentsize":{"value":927,"limit":2097152},"expansiondepth":{"value":22,"limit":100},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":3532,"limit":5000000},"entityaccesscount":{"value":1,"limit":500},"timingprofile":["100.00% 1283.369      1 -total","  4.32%   55.385      1 Template:出典の明記","  3.76%   48.255      1 Template:Ambox","  3.07%   39.445      1 Template:Normdaten","  2.20%   28.207      1 Template:Find_sources_mainspace","  0.54%    6.891      1 Template:Lang-en-short","  0.44%    5.616      1 Template:Lang-*-short","  0.36%    4.630      1 Template:DMC","  0.29%    3.687      1 Template:ISO639言語名","  0.27%    3.404      1 Template:DMC/core"]},"scribunto":{"limitreport-timeusage":{"value":"0.029","limit":"10.000"},"limitreport-memusage":{"value":2459590,"limit":52428800}},"cachereport":{"origin":"mw-web.codfw.main-647f7fd96f-7z58x","timestamp":"20260923124633","ttl":2592000,"transientcontent":false}}});});
+{"@context":"https:\/\/schema.org","@type":"Article","name":"\u9650\u754c\u52b9\u7528","url":"https:\/\/ja.wikipedia.org\/wiki\/%E9%99%90%E7%95%8C%E5%8A%B9%E7%94%A8","sameAs":"http:\/\/www.wikidata.org\/entity\/Q842271","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q842271","author":{"@type":"Organization","name":"\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u3078\u306e\u8ca2\u732e\u8005"},"publisher":{"@type":"Organization","name":"\u30a6\u30a3\u30ad\u30e1\u30c7\u30a3\u30a2\u8ca1\u56e3","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-02-24T07:49:55Z","dateModified":"2025-05-06T00:56:25Z"}
+

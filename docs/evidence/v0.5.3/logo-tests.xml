@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuites tests="4" failures="0" errors="0" skipped="0" time="0.000" timestamp="2026-09-21T14:59:51" hostname="localhost">
+  <testsuite name="com.hyakuri.kanaflick.LogoStartupTest" tests="4" failures="0" errors="0" skipped="0" time="0.394" timestamp="2026-09-21T14:59:51" hostname="localhost">
+    <properties>
+      <property name="device" value="emulator-5554" />
+    </properties>
+    <testcase name="launchSurfaceMatchesMaterialOnModernAndroid" classname="com.hyakuri.kanaflick.LogoStartupTest" time="0.016" />
+    <testcase name="ribbonStartsAtLeftTipAndNeverPaintsTheLowerLeftVoid" classname="com.hyakuri.kanaflick.LogoStartupTest" time="0.005" />
+    <testcase name="jumpingKaNeverIntersectsAnySignal" classname="com.hyakuri.kanaflick.LogoStartupTest" time="0.026" />
+    <testcase name="transparentCornersStableEndpointAndFrameEvidence" classname="com.hyakuri.kanaflick.LogoStartupTest" time="0.347" />
+  </testsuite>
+</testsuites>

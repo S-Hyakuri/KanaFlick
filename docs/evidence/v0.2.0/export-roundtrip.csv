@@ -1,0 +1,12 @@
+id,japanese,reading,meaning_zh,level
+"sample-school","学校","がっこう","学校","N5"
+"sample-water","水","みず","水","N5"
+"sample-eat","食べる","たべる","吃","N5"
+"sample-plan","予定","よてい","计划","N4"
+"sample-prepare","準備","じゅんび","准备","N4"
+"sample-experience","経験","けいけん","经验","N3"
+"sample-cause","原因","げんいん","原因","N3"
+"sample-environment","環境","かんきょう","环境","N2"
+"sample-proposal","提案","ていあん","提议","N2"
+"sample-outline","概略","がいりゃく","概要","N1"
+"sample-custom","慣習","かんしゅう","惯例","N1"

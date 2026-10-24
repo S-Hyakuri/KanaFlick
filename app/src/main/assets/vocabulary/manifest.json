@@ -1,0 +1,70 @@
+{
+  "author": "egg rolls",
+  "repository": "https://github.com/5mdld/anki-jlpt-decks",
+  "commit": "b8a4712fa6e63054eed66564cf9cef9b60d13a2f",
+  "source": "https://raw.githubusercontent.com/5mdld/anki-jlpt-decks/b8a4712fa6e63054eed66564cf9cef9b60d13a2f/deck-source/notes.csv",
+  "source_sha256": "30e9350c92c7bdeaf0f4c0317c9a0f659eb32e606a69870176deff159559eb1a",
+  "license": "CC BY-NC 4.0",
+  "fields_1based": {
+    "id": 3,
+    "japanese": 4,
+    "reading": 7,
+    "meaning_zh": 8,
+    "level": 2,
+    "sort": 36
+  },
+  "excluded": [
+    {
+      "id": "0b68dbc8-2ed7-11ef-a183-99ad05e145f0",
+      "level": "N5",
+      "reason": "duplicate text + reading"
+    },
+    {
+      "id": "0b694e64-2ed7-11ef-a183-99ad05e145f0",
+      "level": "N5",
+      "reason": "duplicate text + reading"
+    },
+    {
+      "id": "0bc56096-2ed7-11ef-a183-99ad05e145f0",
+      "level": "N2",
+      "reason": "duplicate text + reading"
+    },
+    {
+      "id": "0bcf1f50-2ed7-11ef-a183-99ad05e145f0",
+      "level": "N3",
+      "reason": "duplicate text + reading"
+    },
+    {
+      "id": "0cf973f8-2ed7-11ef-a183-99ad05e145f0",
+      "level": "N3",
+      "reason": "duplicate text + reading"
+    },
+    {
+      "id": "74a520ba-58c5-11f0-942b-0d708af8d6f5",
+      "level": "N1",
+      "reason": "duplicate text + reading"
+    }
+  ],
+  "levels": {
+    "N5": {
+      "count": 805,
+      "sha256": "4be4c67b6b5a1a6de500def9fdb312801c1fbf1f2016885ef53c09bd37aec128"
+    },
+    "N4": {
+      "count": 757,
+      "sha256": "afdafd9bb1f205b9f5934cdcb612154710757fa1c813ed4b8c33fb712076799f"
+    },
+    "N3": {
+      "count": 1815,
+      "sha256": "c4048306592615a255130226352620cf79d1f8443e27cee69c097b43a0cc862b"
+    },
+    "N2": {
+      "count": 3214,
+      "sha256": "89edf59a9043b7389ad734ef19bf8c0a12056bffb3bcc32a64bce9f063170924"
+    },
+    "N1": {
+      "count": 4044,
+      "sha256": "6f0015810b5b676ed495fa4836ed6be02c90c030d8046f249e45250132bb198a"
+    }
+  }
+}

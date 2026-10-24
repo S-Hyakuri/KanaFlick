@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-24",
+  "versionName": "0.9.4",
+  "versionCode": 22,
+  "repository": {
+    "url": "https://github.com/S-Hyakuri/KanaFlick",
+    "id": "1431890872",
+    "visibility": "public",
+    "verifiedVia": "GitHub connector get_repo"
+  },
+  "gradleTasks": [
+    ":app:testDebugUnitTest",
+    ":app:lintDebug",
+    ":app:assembleDebug",
+    ":app:assembleDebugAndroidTest"
+  ],
+  "buildExitCode": 0,
+  "unitTests": {
+    "tests": 86,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "lint": {
+    "Error": 0,
+    "Fatal": 0,
+    "Warning": 18
+  },
+  "debugApk": {
+    "path": "app\\build\\outputs\\apk\\debug\\app-debug.apk",
+    "bytes": 12729037,
+    "sha256": "769f3fde696cd3f84861acde557be7e176985fbf6f6a16c0a707aa445e44735b"
+  },
+  "deviceAcceptance": "No connected devices. Device tests, screenshots, repository link opening and text selection/copy not executed."
+}

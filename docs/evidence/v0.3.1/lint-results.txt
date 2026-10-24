@@ -1,0 +1,46 @@
+D:\AndroidProjects\KanaFlick\gradle\libs.versions.toml:3: Warning: A newer version of androidx.core:core-ktx than 1.10.1 is available: 1.19.0 [GradleDependency]
+coreKtx = "1.10.1"
+          ~~~~~~~~
+D:\AndroidProjects\KanaFlick\gradle\libs.versions.toml:7: Warning: A newer version of androidx.lifecycle:lifecycle-runtime-ktx than 2.6.1 is available: 2.11.0 [GradleDependency]
+lifecycleRuntimeKtx = "2.6.1"
+                      ~~~~~~~
+D:\AndroidProjects\KanaFlick\gradle\libs.versions.toml:10: Warning: A newer version of androidx.compose:compose-bom than 2026.02.01 is available: 2026.09.00 [GradleDependency]
+composeBom = "2026.02.01"
+             ~~~~~~~~~~~~
+
+   Explanation for issues of type "GradleDependency":
+   This detector looks for usages of libraries where the version you are using
+   is not the current stable release. Using older versions is fine, and there
+   are cases where you deliberately want to stick with an older version.
+   However, you may simply not be aware that a more recent version is
+   available, and that is what this lint check helps find.
+
+D:\AndroidProjects\KanaFlick\gradle\libs.versions.toml:9: Warning: A newer version of org.jetbrains.kotlin.plugin.compose than 2.2.10 is available: 2.4.20 [NewerVersionAvailable]
+kotlin = "2.2.10"
+         ~~~~~~~~
+
+   Explanation for issues of type "NewerVersionAvailable":
+   This detector checks with a central repository to see if there are newer
+   versions available for the dependencies used by this project. This is
+   similar to the GradleDependency check, which checks for newer versions
+   available in the Android SDK tools and libraries, but this works with any
+   MavenCentral dependency, and connects to the library every time, which
+   makes it more flexible but also much slower.
+
+D:\AndroidProjects\KanaFlick\app\src\main\res\mipmap-anydpi\ic_launcher.xml:2: Warning: The application adaptive icon is missing a monochrome tag [MonochromeLauncherIcon]
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+^
+D:\AndroidProjects\KanaFlick\app\src\main\res\mipmap-anydpi\ic_launcher_round.xml:2: Warning: The application adaptive roundIcon is missing a monochrome tag [MonochromeLauncherIcon]
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+^
+
+   Explanation for issues of type "MonochromeLauncherIcon":
+   The system may use the coloring of the user's chosen wallpaper and theme to
+   tint app icons. Providing a <monochrome> layer (which will be used for
+   tinting) for every adaptive icon is strongly recommended, otherwise Android
+   16 QPR 2 and above will simply tint the color version of the icon, which
+   may look unusual. Devices running earlier Android versions will (with no
+   monochrome layer) show the untinted color icon for your app, which will
+   look inconsistent.
+
+0 errors, 6 warnings

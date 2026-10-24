@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-24",
+  "versionName": "0.9.4",
+  "versionCode": 22,
+  "repository": {
+    "url": "https://github.com/S-Hyakuri/KanaFlick",
+    "id": "1431890872",
+    "visibility": "public",
+    "verifiedVia": "GitHub connector get_repo"
+  },
+  "gradleTasks": [
+    ":app:testDebugUnitTest",
+    ":app:lintDebug",
+    ":app:assembleDebug",
+    ":app:assembleDebugAndroidTest"
+  ],
+  "buildExitCode": 0,
+  "unitTests": {
+    "tests": 86,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "lint": {
+    "Error": 0,
+    "Fatal": 0,
+    "Warning": 18
+  },
+  "debugApk": {
+    "path": "app\\build\\outputs\\apk\\debug\\app-debug.apk",
+    "bytes": 12729037,
+    "sha256": "470de0e270add8fea42a031fd4e630d236edc8cc6a620489840642b4f70d99a0"
+  },
+  "deviceAcceptance": "No connected devices. Device tests, screenshots, repository link opening and text selection/copy not executed.",
+  "displayCorrection": "Removed the GitHub repository heading without https; full HTTPS repository URL and profile URL retained. Same delivery version 0.9.4/22."
+}

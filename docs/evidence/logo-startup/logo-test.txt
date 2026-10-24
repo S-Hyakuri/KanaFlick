@@ -1,0 +1,8 @@
+
+com.hyakuri.kanaflick.LogoStartupTest:.
+
+Time: 0.232
+
+OK (1 test)
+
+

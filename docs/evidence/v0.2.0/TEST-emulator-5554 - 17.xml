@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuites tests="9" failures="0" errors="0" skipped="0" time="0.000" timestamp="2026-09-19T10:22:40" hostname="localhost">
+  <testsuite name="com.hyakuri.kanaflick.ExampleInstrumentedTest" tests="1" failures="0" errors="0" skipped="0" time="0.001" timestamp="2026-09-19T10:22:40" hostname="localhost">
+    <properties>
+      <property name="device" value="emulator-5554" />
+    </properties>
+    <testcase name="useAppContext" classname="com.hyakuri.kanaflick.ExampleInstrumentedTest" time="0.001" />
+  </testsuite>
+  <testsuite name="com.hyakuri.kanaflick.InputConnectionTest" tests="1" failures="0" errors="0" skipped="0" time="5.357" timestamp="2026-09-19T10:22:40" hostname="localhost">
+    <properties>
+      <property name="device" value="emulator-5554" />
+    </properties>
+    <testcase name="compositionCandidateCommitAndSelectionDoNotScoreUntilButton" classname="com.hyakuri.kanaflick.InputConnectionTest" time="5.357" />
+  </testsuite>
+  <testsuite name="com.hyakuri.kanaflick.KanaFlickUiTest" tests="4" failures="0" errors="0" skipped="0" time="17.434" timestamp="2026-09-19T10:22:40" hostname="localhost">
+    <properties>
+      <property name="device" value="emulator-5554" />
+    </properties>
+    <testcase name="roundAndWrongAnswer" classname="com.hyakuri.kanaflick.KanaFlickUiTest" time="5.110" />
+    <testcase name="exitClears" classname="com.hyakuri.kanaflick.KanaFlickUiTest" time="4.398" />
+    <testcase name="recreationKeepsEditedInputAndCounts" classname="com.hyakuri.kanaflick.KanaFlickUiTest" time="4.676" />
+    <testcase name="imeDoneNeverSubmits" classname="com.hyakuri.kanaflick.KanaFlickUiTest" time="3.250" />
+  </testsuite>
+  <testsuite name="com.hyakuri.kanaflick.LibraryUiTest" tests="1" failures="0" errors="0" skipped="0" time="14.484" timestamp="2026-09-19T10:22:40" hostname="localhost">
+    <properties>
+      <property name="device" value="emulator-5554" />
+    </properties>
+    <testcase name="createEditRenameRecreateAndDeleteWithConfirmation" classname="com.hyakuri.kanaflick.LibraryUiTest" time="14.484" />
+  </testsuite>
+  <testsuite name="com.hyakuri.kanaflick.StorageDeviceTest" tests="1" failures="0" errors="0" skipped="0" time="2.321" timestamp="2026-09-19T10:22:40" hostname="localhost">
+    <properties>
+      <property name="device" value="emulator-5554" />
+    </properties>
+    <testcase name="persistenceAndRestartProbe" classname="com.hyakuri.kanaflick.StorageDeviceTest" time="2.321" />
+  </testsuite>
+  <testsuite name="com.hyakuri.kanaflick.VisualEvidenceTest" tests="1" failures="0" errors="0" skipped="0" time="7.255" timestamp="2026-09-19T10:22:40" hostname="localhost">
+    <properties>
+      <property name="device" value="emulator-5554" />
+    </properties>
+    <testcase name="captureThreePagesAndError" classname="com.hyakuri.kanaflick.VisualEvidenceTest" time="7.255" />
+  </testsuite>
+</testsuites>

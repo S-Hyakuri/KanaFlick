@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hyakuri.kanaflick.ReadingLibraryTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2026-10-22T12:38:43.633Z" hostname="S-HYAKURI-PC" time="0.125">
+  <properties/>
+  <testcase name="indexRejectsDuplicatesUnsafePathsAndMismatchedIdsBeforeLoading" classname="com.hyakuri.kanaflick.ReadingLibraryTest" time="0.013"/>
+  <testcase name="metadataKeysCannotBeMissingSwappedOrDuplicated" classname="com.hyakuri.kanaflick.ReadingLibraryTest" time="0.01"/>
+  <testcase name="releaseContentHasFiveArticlesPerLevelAndPreservesExistingIds" classname="com.hyakuri.kanaflick.ReadingLibraryTest" time="0.034"/>
+  <testcase name="packagedIndexAccountsForEveryTextAndSentenceFile" classname="com.hyakuri.kanaflick.ReadingLibraryTest" time="0.024"/>
+  <testcase name="malformedPairsAndMissingFilesAreRejected" classname="com.hyakuri.kanaflick.ReadingLibraryTest" time="0.022"/>
+  <testcase name="directValidationAlsoChecksRequiredMetadataAndRealHttpsUrls" classname="com.hyakuri.kanaflick.ReadingLibraryTest" time="0.021"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

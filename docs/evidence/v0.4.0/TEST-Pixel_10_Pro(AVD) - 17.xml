@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuites tests="15" failures="0" errors="0" skipped="0" time="0.000" timestamp="2026-09-20T08:19:38" hostname="localhost">
+  <testsuite name="com.hyakuri.kanaflick.ExampleInstrumentedTest" tests="1" failures="0" errors="0" skipped="0" time="0.001" timestamp="2026-09-20T08:19:38" hostname="localhost">
+    <properties>
+      <property name="device" value="emulator-5554" />
+    </properties>
+    <testcase name="useAppContext" classname="com.hyakuri.kanaflick.ExampleInstrumentedTest" time="0.001" />
+  </testsuite>
+  <testsuite name="com.hyakuri.kanaflick.InputConnectionTest" tests="2" failures="0" errors="0" skipped="0" time="10.372" timestamp="2026-09-20T08:19:38" hostname="localhost">
+    <properties>
+      <property name="device" value="emulator-5554" />
+    </properties>
+    <testcase name="compositionWaitsAndCommittedCandidateAutomaticallyScores" classname="com.hyakuri.kanaflick.InputConnectionTest" time="7.461" />
+    <testcase name="recreationDoesNotScoreRestoredUnconfirmedComposition" classname="com.hyakuri.kanaflick.InputConnectionTest" time="2.911" />
+  </testsuite>
+  <testsuite name="com.hyakuri.kanaflick.KanaFlickUiTest" tests="4" failures="0" errors="0" skipped="0" time="13.323" timestamp="2026-09-20T08:19:38" hostname="localhost">
+    <properties>
+      <property name="device" value="emulator-5554" />
+    </properties>
+    <testcase name="roundAndWrongAnswer" classname="com.hyakuri.kanaflick.KanaFlickUiTest" time="3.614" />
+    <testcase name="exitClears" classname="com.hyakuri.kanaflick.KanaFlickUiTest" time="3.875" />
+    <testcase name="recreationKeepsEditedInputAndCounts" classname="com.hyakuri.kanaflick.KanaFlickUiTest" time="3.657" />
+    <testcase name="automaticAnswerAndImeDoneDoNotDoubleScore" classname="com.hyakuri.kanaflick.KanaFlickUiTest" time="2.177" />
+  </testsuite>
+  <testsuite name="com.hyakuri.kanaflick.LibraryUiTest" tests="1" failures="0" errors="0" skipped="0" time="8.184" timestamp="2026-09-20T08:19:38" hostname="localhost">
+    <properties>
+      <property name="device" value="emulator-5554" />
+    </properties>
+    <testcase name="createEditRenameRecreateAndDeleteWithConfirmation" classname="com.hyakuri.kanaflick.LibraryUiTest" time="8.184" />
+  </testsuite>
+  <testsuite name="com.hyakuri.kanaflick.NavigationStudyTest" tests="3" failures="0" errors="0" skipped="0" time="19.176" timestamp="2026-09-20T08:19:38" hostname="localhost">
+    <properties>
+      <property name="device" value="emulator-5554" />
+    </properties>
+    <testcase name="offlineAttributionAndLicenseAreReadable" classname="com.hyakuri.kanaflick.NavigationStudyTest" time="9.879" />
+    <testcase name="searchSurvivesTabsRecreationAndPracticeExit" classname="com.hyakuri.kanaflick.NavigationStudyTest" time="4.788" />
+    <testcase name="savedRoundSizeDrivesRealRandomRoundAndRestart" classname="com.hyakuri.kanaflick.NavigationStudyTest" time="4.509" />
+  </testsuite>
+  <testsuite name="com.hyakuri.kanaflick.PracticeExperienceTest" tests="2" failures="0" errors="0" skipped="0" time="14.931" timestamp="2026-09-20T08:19:38" hostname="localhost">
+    <properties>
+      <property name="device" value="emulator-5554" />
+    </properties>
+    <testcase name="optionsExposeAuthorAndHelpWithoutTutorial" classname="com.hyakuri.kanaflick.PracticeExperienceTest" time="5.254" />
+    <testcase name="autofocusShowsKeyboardOnceAndTimerSurvivesLifecycle" classname="com.hyakuri.kanaflick.PracticeExperienceTest" time="9.677" />
+  </testsuite>
+  <testsuite name="com.hyakuri.kanaflick.StorageDeviceTest" tests="1" failures="0" errors="0" skipped="0" time="2.660" timestamp="2026-09-20T08:19:38" hostname="localhost">
+    <properties>
+      <property name="device" value="emulator-5554" />
+    </properties>
+    <testcase name="persistenceAndRestartProbe" classname="com.hyakuri.kanaflick.StorageDeviceTest" time="2.660" />
+  </testsuite>
+  <testsuite name="com.hyakuri.kanaflick.VisualEvidenceTest" tests="1" failures="0" errors="0" skipped="0" time="8.382" timestamp="2026-09-20T08:19:38" hostname="localhost">
+    <properties>
+      <property name="device" value="emulator-5554" />
+    </properties>
+    <testcase name="captureThreePagesAndError" classname="com.hyakuri.kanaflick.VisualEvidenceTest" time="8.382" />
+  </testsuite>
+</testsuites>

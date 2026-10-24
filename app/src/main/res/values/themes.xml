@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.KanaFlick" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowLightStatusBar">@bool/light_system_bars</item>
+        <item name="android:windowBackground">@color/launch_background</item>
+    </style>
+    <style name="Theme.KanaFlick.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/launch_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/startup_logo</item>
+        <item name="postSplashScreenTheme">@style/Theme.KanaFlick</item>
+    </style>
+</resources>
+
+
+

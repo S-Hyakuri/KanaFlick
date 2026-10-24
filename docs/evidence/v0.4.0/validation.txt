@@ -1,0 +1,115 @@
+Calculating task graph as configuration cache cannot be reused because file 'gradle\libs.versions.toml' has changed.
+> Task :app:generateDebugAssets UP-TO-DATE
+> Task :app:preBuild UP-TO-DATE
+> Task :app:generateDebugAndroidTestAssets UP-TO-DATE
+> Task :app:preDebugUnitTestBuild UP-TO-DATE
+> Task :app:preDebugAndroidTestBuild SKIPPED
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :app:processDebugAndroidTestNavigationResources
+> Task :app:desugarDebugAndroidTestFileDependencies
+> Task :app:mapDebugSourceSetPaths
+> Task :app:mapDebugAndroidTestSourceSetPaths
+> Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :app:javaPreCompileDebugUnitTest
+> Task :app:createDebugCompatibleScreenManifests
+> Task :app:desugarDebugFileDependencies
+> Task :app:extractDeepLinksDebug
+> Task :app:extractProguardFiles
+> Task :app:writeDebugAppMetadata
+> Task :app:generateDebugResources
+> Task :app:generateDebugAndroidTestResources
+> Task :app:writeDebugSigningConfigVersions
+> Task :app:writeDebugAndroidTestSigningConfigVersions
+> Task :app:validateSigningDebug
+> Task :app:validateSigningDebugAndroidTest
+> Task :app:javaPreCompileDebug
+> Task :app:mergeDebugJniLibFolders
+> Task :app:mergeDebugAndroidTestJniLibFolders
+> Task :app:javaPreCompileDebugAndroidTest
+> Task :app:packageDebugAndroidTestResources
+> Task :app:compileDebugAndroidTestNavigationResources
+> Task :app:parseDebugAndroidTestLocalResources
+> Task :app:generateDebugAndroidTestRFile
+> Task :app:packageDebugResources
+> Task :app:checkDebugDuplicateClasses
+> Task :app:checkDebugAndroidTestDuplicateClasses
+> Task :app:generateDebugAndroidTestGlobalSynthetics
+> Task :app:generateDebugGlobalSynthetics
+> Task :app:mergeLibDexDebugAndroidTest
+> Task :app:mergeLibDexDebug
+> Task :app:mergeDebugAndroidTestAssets
+> Task :app:compressDebugAndroidTestAssets
+> Task :app:checkDebugAndroidTestAarMetadata
+> Task :app:processDebugNavigationResources
+> Task :app:compileDebugNavigationResources
+> Task :app:mergeDebugAssets
+> Task :app:checkDebugAarMetadata
+> Task :app:parseDebugLocalResources
+> Task :app:compressDebugAssets
+> Task :app:generateDebugRFile
+> Task :app:mergeDebugNativeLibs
+> Task :app:mergeDebugAndroidTestNativeLibs NO-SOURCE
+> Task :app:stripDebugAndroidTestDebugSymbols NO-SOURCE
+
+> Task :app:stripDebugDebugSymbols
+Unable to strip the following libraries, packaging them as they are: libandroidx.graphics.path.so. Run with --info option to learn more.
+
+> Task :app:mergeDebugAndroidTestResources
+> Task :app:mergeDebugResources
+> Task :app:mergeDebugAndroidTestManifest
+> Task :app:processDebugMainManifest
+> Task :app:processDebugAndroidTestManifest
+> Task :app:processDebugManifest
+> Task :app:processDebugManifestForPackage
+> Task :app:processDebugResources
+> Task :app:processDebugAndroidTestResources
+> Task :app:mergeExtDexDebugAndroidTest
+> Task :app:mergeExtDexDebug
+> Task :app:compileDebugKotlin
+> Task :app:compileDebugJavaWithJavac NO-SOURCE
+> Task :app:bundleDebugClassesToRuntimeJar
+> Task :app:bundleDebugClassesToCompileJar
+> Task :app:processDebugJavaRes
+> Task :app:generateDebugUnitTestLintModel
+> Task :app:generateDebugAndroidTestLintModel
+> Task :app:generateDebugLintReportModel
+> Task :app:dexBuilderDebug
+> Task :app:mergeProjectDexDebug
+> Task :app:compileDebugUnitTestKotlin
+> Task :app:compileDebugUnitTestJavaWithJavac NO-SOURCE
+> Task :app:processDebugUnitTestJavaRes
+> Task :app:mergeDebugJavaResource
+> Task :app:compileDebugAndroidTestKotlin
+> Task :app:compileDebugAndroidTestJavaWithJavac NO-SOURCE
+> Task :app:processDebugAndroidTestJavaRes
+> Task :app:dexBuilderDebugAndroidTest
+> Task :app:mergeProjectDexDebugAndroidTest
+> Task :app:packageDebug
+> Task :app:assembleDebug
+> Task :app:createDebugApkListingFileRedirect
+> Task :app:mergeDebugAndroidTestJavaResource
+> Task :app:packageDebugAndroidTest
+> Task :app:createDebugAndroidTestApkListingFileRedirect
+> Task :app:lintAnalyzeDebugUnitTest
+> Task :app:testDebugUnitTest
+> Task :app:lintAnalyzeDebugAndroidTest
+
+> Task :app:connectedDebugAndroidTest
+Running tests on devices: Pixel_10_Pro(AVD) - 17
+
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::arrayBaseOffset has been called by com.google.protobuf.UnsafeUtil$MemoryAccessor (file:/C:/Users/lcz20/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.25.5/5ae5c9ec39930ae9b5a61b32b93288818ec05ec1/protobuf-java-3.25.5.jar)
+WARNING: Please consider reporting this to the maintainers of class com.google.protobuf.UnsafeUtil$MemoryAccessor
+WARNING: sun.misc.Unsafe::arrayBaseOffset will be removed in a future release
+
+> Task :app:lintAnalyzeDebug
+
+> Task :app:lintReportDebug
+Wrote HTML report to file:///D:/AndroidProjects/KanaFlick/app/build/reports/lint-results-debug.html
+Wrote SARIF report to file:///D:/AndroidProjects/KanaFlick/app/build/reports/lint-results-debug.sarif
+
+> Task :app:lintDebug
+
+BUILD SUCCESSFUL in 1m 57s
+82 actionable tasks: 82 executed
+Configuration cache entry stored.

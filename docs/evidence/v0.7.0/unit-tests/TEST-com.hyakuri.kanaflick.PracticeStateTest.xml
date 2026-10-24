@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hyakuri.kanaflick.PracticeStateTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-10-10T08:48:35.065Z" hostname="S-HYAKURI-PC" time="0.029">
+  <properties/>
+  <testcase name="normalizationIsConservative" classname="com.hyakuri.kanaflick.PracticeStateTest" time="0.016"/>
+  <testcase name="explicitSubmissionAndCompletion" classname="com.hyakuri.kanaflick.PracticeStateTest" time="0.011"/>
+  <testcase name="automaticInputWaitsForPrefixAndComposition" classname="com.hyakuri.kanaflick.PracticeStateTest" time="0.0"/>
+  <testcase name="compositionBlankAndStaleEventsDoNotScore" classname="com.hyakuri.kanaflick.PracticeStateTest" time="0.0"/>
+  <testcase name="automaticWrongRevisionScoresOnlyOnceAndCanBeCorrected" classname="com.hyakuri.kanaflick.PracticeStateTest" time="0.0"/>
+  <testcase name="wrongStaysAndDoubleSubmitIsIgnored" classname="com.hyakuri.kanaflick.PracticeStateTest" time="0.0"/>
+  <testcase name="restartExitAndZero" classname="com.hyakuri.kanaflick.PracticeStateTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+
+com.hyakuri.kanaflick.VisualEvidenceTest:.
+
+Time: 13.793
+
+OK (1 test)
+
+

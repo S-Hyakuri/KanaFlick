@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-24",
+  "versionName": "0.9.4",
+  "versionCode": 22,
+  "repository": {
+    "url": "https://github.com/S-Hyakuri/KanaFlick",
+    "id": "1431890872",
+    "visibility": "public",
+    "verifiedVia": "GitHub connector get_repo"
+  },
+  "gradleTasks": [
+    ":app:testDebugUnitTest",
+    ":app:lintDebug",
+    ":app:assembleDebug",
+    ":app:assembleDebugAndroidTest"
+  ],
+  "buildExitCode": 0,
+  "unitTests": {
+    "tests": 86,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "lint": {
+    "Error": 0,
+    "Fatal": 0,
+    "Warning": 18
+  },
+  "debugApk": {
+    "path": "app\\build\\outputs\\apk\\debug\\app-debug.apk",
+    "bytes": 13213554,
+    "sha256": "ad6c35393fda395e023d77e4324366bf8fa36244de6070065cefd31faea13ff4"
+  },
+  "deviceAcceptance": "No connected devices. Device tests, screenshots, repository link opening and text selection/copy not executed.",
+  "displayCorrection": "Removed the first personal-profile link per user screenshot. Exactly one repository action and one full HTTPS URL remain in a themed rounded outlined card with repository name and external-open icon. Same delivery version 0.9.4/22.",
+  "problemScreenshot": "reported-two-links.jpg: user evidence of the earlier two-link issue; not final UI acceptance."
+}

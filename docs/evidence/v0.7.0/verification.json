@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-10",
+  "versionName": "0.7.0",
+  "versionCode": 16,
+  "tests": 40,
+  "failures": 0,
+  "errors": 0,
+  "lintErrors": 0,
+  "lintWarnings": 17,
+  "apkBytes": 12828381,
+  "apkSha256": "55ac51eaf226ca653a74e31eb5eea6b71b85ca98e99287f527350e0cb2568430",
+  "deviceTests": "Not run: no connected devices",
+  "screenshots": "Not performed",
+  "physicalDevice": "Not verified",
+  "performanceComparison": "Not measured"
+}

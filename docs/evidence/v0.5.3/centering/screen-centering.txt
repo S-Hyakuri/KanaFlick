@@ -1,0 +1,5 @@
+screenshot=1280x2856
+wordmark_horizontal_bounds=417..862
+visible_center=639.5
+screen_pixel_center=639.5
+error_pixels=0.0

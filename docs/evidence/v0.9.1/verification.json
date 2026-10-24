@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-23",
+  "versionName": "0.9.1",
+  "versionCode": 19,
+  "unitTests": 79,
+  "failures": 0,
+  "errors": 0,
+  "lint": {
+    "Warning": 17
+  },
+  "apkBytes": 12708831,
+  "apkSha256": "44acf9caddddd7c43504acfff62ca57d918bd95284cf86a60ad0acede403b7b0",
+  "originalWords": 10635,
+  "eligibleWords": 10278,
+  "excludedWords": 357,
+  "deviceTests": "blocked: No connected devices",
+  "screenshots": "not acquired",
+  "physicalIme": "not verified",
+  "performance": "not measured"
+}

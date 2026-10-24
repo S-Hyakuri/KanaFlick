@@ -1,0 +1,7 @@
+Starting: Intent { flg=0x10008000 cmp=com.hyakuri.kanaflick/.MainActivity }
+Status: ok
+LaunchState: COLD
+Activity: com.hyakuri.kanaflick/.MainActivity
+TotalTime: 3893
+WaitTime: 3917
+Complete

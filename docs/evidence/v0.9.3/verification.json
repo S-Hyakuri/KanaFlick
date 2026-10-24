@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-24",
+  "versionName": "0.9.3",
+  "versionCode": 21,
+  "unitTests": {
+    "tests": 86,
+    "failures": 0,
+    "errors": 0,
+    "skipped": 0
+  },
+  "lint": {
+    "Error": 0,
+    "Fatal": 0,
+    "Warning": 18
+  },
+  "debugApk": {
+    "path": "app\\build\\outputs\\apk\\debug\\app-debug.apk",
+    "bytes": 12729037,
+    "sha256": "ff97aa574194e8a4780adcc6fe146cded654920a90854e50e7a928cd2b2ef85c"
+  },
+  "deviceAcceptance": "No connected devices; screenshot, frame timing, scroll smoothness and IME not verified.",
+  "performanceComparison": "No before/after device measurements; source-level reductions only."
+}

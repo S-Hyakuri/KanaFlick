@@ -1,0 +1,8 @@
+
+com.hyakuri.kanaflick.NavigationStudyTest:.
+
+Time: 5.088
+
+OK (1 test)
+
+

@@ -1,0 +1,18 @@
+{
+  "version": "0.8.0",
+  "versionCode": 17,
+  "tests": 46,
+  "failures": 0,
+  "errors": 0,
+  "lintErrors": 0,
+  "lintWarnings": 17,
+  "lintIssueCounts": {
+    "GradleDependency": 4,
+    "MonochromeLauncherIcon": 2,
+    "NewerVersionAvailable": 1,
+    "UseKtx": 9,
+    "VectorRaster": 1
+  },
+  "apkBytes": 12643236,
+  "apkSha256": "e537626b512c3cadee8538cfd01590d9688b8ad29a0c78733f70bd977136c10e"
+}

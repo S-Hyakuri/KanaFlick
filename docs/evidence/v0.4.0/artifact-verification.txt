@@ -1,0 +1,12 @@
+v0.4.0 / versionCode 5 / minSdk 26
+APK: app/build/outputs/apk/debug/app-debug.apk
+Size: 12951447 bytes
+SHA256: BAA580374EA9F9467053B253034058E2FFC8E0882607C6945B3B0A5373741BB3
+Full verification: validation.txt (24 unit tests, 15 connected device tests)
+Final system-bar resources: final-build.txt; dark-small-capture.txt
+Device: Pixel_10_Pro AVD, Android 17 API 37, gesture navigation
+IME: Gboard 17.2.2.895242737-preload-x86_64, Japanese 12-key
+Light: 1280x2856, 480 dpi, font scale 1.0
+Dark small: 1080x2400, 480 dpi (360dp), font scale 1.5
+Device tests and screenshots do not prove real-phone or cross-IME compatibility.
+No Git commit, push, or store publication performed.

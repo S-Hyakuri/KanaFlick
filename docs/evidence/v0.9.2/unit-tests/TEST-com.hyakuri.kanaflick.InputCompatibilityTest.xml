@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.hyakuri.kanaflick.InputCompatibilityTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-10-24T05:55:58.136Z" hostname="S-HYAKURI-PC" time="0.072">
+  <properties/>
+  <testcase name="qwertyTextEventsWorkWithoutCompositionMarkers" classname="com.hyakuri.kanaflick.InputCompatibilityTest" time="0.052"/>
+  <testcase name="romanSuffixDoesNotHideAnEarlierWrongKana" classname="com.hyakuri.kanaflick.InputCompatibilityTest" time="0.004"/>
+  <testcase name="everySmallKanaWaitsUntilTheNextKanaRegardlessOfComposition" classname="com.hyakuri.kanaflick.InputCompatibilityTest" time="0.011"/>
+  <testcase name="hiraganaCompletesKatakanaWithoutErrorsOrFalseProfileFailures" classname="com.hyakuri.kanaflick.InputCompatibilityTest" time="0.0"/>
+  <testcase name="chartContainsEachSupportedUnitOnceInFiveColumns" classname="com.hyakuri.kanaflick.InputCompatibilityTest" time="0.003"/>
+  <testcase name="finalLargeKanaDoesNotSilentlyCountAsTheSmallAnswer" classname="com.hyakuri.kanaflick.InputCompatibilityTest" time="0.0"/>
+  <testcase name="equivalenceIsSymmetricAndPreservesOriginalPrompt" classname="com.hyakuri.kanaflick.InputCompatibilityTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
