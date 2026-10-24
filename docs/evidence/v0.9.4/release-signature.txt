@@ -1,0 +1,17 @@
+Verifies
+Verified using v1 scheme (JAR signing): false
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): false
+Verified using v3.1 scheme (APK Signature Scheme v3.1): false
+Verified using v4 scheme (APK Signature Scheme v4): false
+Verified for SourceStamp: false
+Number of signers: 1
+Signer #1 certificate DN: CN=S-Hyakuri
+Signer #1 certificate SHA-256 digest: c08f95f1a42bec9ae14eebbd1d41dfa5a31978018ec5357b0a80d4116e307061
+Signer #1 certificate SHA-1 digest: 65b8857fd3e94728995bbc911c45996478371520
+Signer #1 certificate MD5 digest: 305b271dfe7e47a45195ab0acff99e5a
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: c9cb3afd3659090aa75dd763d1aeb3cbcbb1be1f849601142aca1ba43f85b3c8
+Signer #1 public key SHA-1 digest: 6bcf17e2bc41c26a4518ccbaf4bb18c0fabe836b
+Signer #1 public key MD5 digest: 7feaa00294fe30295c0c5c98ec847aea

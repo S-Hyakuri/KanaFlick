@@ -6,6 +6,14 @@ v0.5.3 已执行单元测试、Lint、构建和启动专项设备测试；完整
 
 ## v0.9.4 — 2026-10-24（仓库信息修正）
 
+### 首次签名 Release APK
+
+2026-10-24 用户在本机创建正式签名密钥后，通过 Android Studio 的 Generate Signed APK 向导选择 release 构建成功。应用源码对应 `7d661fb`，未修改应用行为和版本。发布附件 `KanaFlick-0.9.4.apk` 为 **0.9.4 / 22**，包名 `com.hyakuri.kanaflick`，8,668,845 字节；SHA-256 为 `52f0722e7c0befd777fc64ac27c86495de00d9d9e2e1fa39cad7347eef6b41d2`。
+
+`apksigner verify --verbose --print-certs` 通过，1 个签名者、APK Signature Scheme v2 有效，证书为 `CN=S-Hyakuri`；证书 SHA-256 为 `c08f95f1a42bec9ae14eebbd1d41dfa5a31978018ec5357b0a80d4116e307061`。包信息检查确认 minSdk 26、targetSdk 37、未启用调试，包含 arm64-v8a／armeabi-v7a／x86／x86_64 库。复制后的发布附件与原产物哈希一致。证据在本版目录的 `release-signature.txt`、`release-output-metadata.json`、`release-verification.json`，不包含私钥或密码。
+
+这次签名打包没有重跑单元测试；既有 Debug 测试结果仍属独立证据。首次受限 ADB 检查启动服务失败，正常权限重查后设备列表为空；本轮未安装或操作这个签名 Release APK，不能据此认定升级覆盖、真实输入法、兼容性或性能验收通过。建议按 Pre-release 发布；实际发布状态以 GitHub Releases 页面为准。
+
 ### README 展示素材补充
 
 2026-10-24 用户提供主页、单词练习（含系统日语十二键输入法）、假名熟练度及选项四张浅色界面截图，原样保存到 `docs/assets/screenshots/` 用于 README 展示。选项截图可见版本 0.9.4；针对性词汇开关已由用户开启，不代表默认值改变。截图只证明画面中可见的状态，不替代设备测试、真实 IME 全流程、画像正确性、深色主题、兼容性或性能验收。没有关于弹窗内部、链接打开与复制的新增证据。

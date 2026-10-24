@@ -1,0 +1,33 @@
+{
+  "date": "2026-10-24",
+  "applicationSourceCommit": "7d661fb0b6f4d885f9c46328f73a35a040fd6bca",
+  "versionName": "0.9.4",
+  "versionCode": 22,
+  "applicationId": "com.hyakuri.kanaflick",
+  "variant": "release",
+  "buildEvidence": "Android Studio Generate Signed APK wizard completed successfully; release variant.",
+  "artifact": {
+    "name": "KanaFlick-0.9.4.apk",
+    "bytes": 8668845,
+    "sha256": "52f0722e7c0befd777fc64ac27c86495de00d9d9e2e1fa39cad7347eef6b41d2"
+  },
+  "verification": {
+    "apksignerExitCode": 0,
+    "apkSignatureSchemeV2": true,
+    "signerCount": 1,
+    "certificateSubject": "CN=S-Hyakuri",
+    "certificateSha256": "c08f95f1a42bec9ae14eebbd1d41dfa5a31978018ec5357b0a80d4116e307061",
+    "debuggable": false,
+    "minSdk": 26,
+    "targetSdk": 37,
+    "abis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86",
+      "x86_64"
+    ]
+  },
+  "deviceAcceptance": "ADB device list empty. This signed release APK has not been installed or tested on a device in this run. User-supplied README screenshots are separate display evidence.",
+  "testScope": "No unit or device tests rerun for signing and documentation. Existing v0.9.4 Debug automated evidence remains separate.",
+  "releasePublication": "Package preparation and verification only; see GitHub Releases for actual publication state."
+}
